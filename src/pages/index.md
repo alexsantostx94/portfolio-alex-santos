@@ -35,7 +35,6 @@ sections:
           User Experience and User Interface design for products in the social
           design space. I focus on mobile first design and I incorporate human
           computer interaction design principles into all of my designs.
-        image: images/noun_ux design_2070195.svg
       - title: Application Development
         content: >-
           Application development for ios products programmed in Swift language.
