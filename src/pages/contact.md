@@ -29,7 +29,7 @@ sections:
           - UX Design
           - App Development
           - Graphic Design
-          - lorem-ipsum
+          - Web Development
       - input_type: textarea
         name: message
         label: Message
