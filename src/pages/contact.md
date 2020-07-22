@@ -5,9 +5,9 @@ sections:
   - section_id: contact-form
     type: section_form
     content: >-
-      Hi there! Thank you so much for your interest in working together. Please
-      fill the contact form below or send us an email at
-      [example@example.com](mailto:example@example.com).
+      Hi there! I'm available to collaborate on designs and development in the
+      social product space. Please fill the contact form below or send me an
+      email at [alex@alexsantos.design](mailto:example@example.com).
     form_id: contactForm
     form_action: /thank-you
     form_fields:
