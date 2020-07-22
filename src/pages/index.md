@@ -43,7 +43,8 @@ sections:
         content: 'Logo design, illustrations and brand identity.'
       - title: Front-End Development
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          Front-End dev in HTML, CSS, javascript as well as JAMstack
+          development. I can work with you on existing designs and incorporate
+          elemnts that help your products SEo and outreach.
 template: advanced
 ---
