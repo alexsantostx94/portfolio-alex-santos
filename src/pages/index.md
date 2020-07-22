@@ -40,10 +40,7 @@ sections:
           Application development for ios products programmed in Swift language.
           I can also program web applications in C++ and Python.
       - title: Graphic Design
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
+        content: 'Logo design, illustrations and brand identity.'
       - title: Front-End Development
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
