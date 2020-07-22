@@ -28,7 +28,7 @@ sections:
         options:
           - UX Design
           - App Development
-          - Other
+          - Graphic Design
       - input_type: textarea
         name: message
         label: Message
