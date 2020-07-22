@@ -26,7 +26,7 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - Error on the site
+          - UX Design
           - Sponsorship
           - Other
       - input_type: textarea
