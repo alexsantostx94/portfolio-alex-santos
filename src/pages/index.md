@@ -32,9 +32,9 @@ sections:
     grid_items:
       - title: UX Design
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          User Experience and User Interface design for products in the social
+          design space. I focus on mobile first design and I incorporate human
+          computer interaction design principles into all of my designs.
       - title: Application Development
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
