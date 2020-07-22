@@ -6,8 +6,11 @@ sections:
     type: section_hero
     title: Designer | Developer
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Freelance Designer and Developer based in Austin, Texas. I focus on
+      minimalist web designs and creative graphic designs. My design process
+      involves research, sketching, wireframing and prototyping. I aim to create
+      an open line of communication with my clients and am keen on the details
+      for all projects.
     actions:
       - label: Let's talk
         url: /contact
