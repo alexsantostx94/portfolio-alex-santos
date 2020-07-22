@@ -37,9 +37,8 @@ sections:
           computer interaction design principles into all of my designs.
       - title: Application Development
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
+          Application development for ios products programmed in Swift language.
+          I can also program web applications in C++ and Python.
       - title: Graphic Design
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
