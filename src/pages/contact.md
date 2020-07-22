@@ -27,7 +27,7 @@ sections:
         default_value: Please select
         options:
           - UX Design
-          - Sponsorship
+          - App Development
           - Other
       - input_type: textarea
         name: message
