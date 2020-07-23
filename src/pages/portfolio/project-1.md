@@ -1,6 +1,6 @@
 ---
 title: Greyhound Rescue Austin | Website Redesign
-subtitle: Optional Project Subtitle
+subtitle: Website Redesign
 date: '2019-05-10'
 thumb_image: images/GRATXREWORK1.png
 image: images/pink-wallaby.png
