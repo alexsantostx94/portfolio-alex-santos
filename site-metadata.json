@@ -25,14 +25,7 @@
     },
     "footer": {
         "content": "2020 &copy; Alex Santos. All rights reserved.",
-        "links": [
-            {
-                "label": "Made with Stackbit.",
-                "url": "https://www.stackbit.com",
-                "style": "link",
-                "new_window": true
-            }
-        ],
+        "links": [],
         "has_social": true,
         "social_links": [
             {
