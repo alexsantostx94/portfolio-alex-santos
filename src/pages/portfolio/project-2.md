@@ -1,6 +1,6 @@
 ---
 title: Healthcare App
-subtitle: Optional Project Subtitle
+subtitle: UX Design and Prototype
 date: '2019-04-30'
 thumb_image: images/2_thumb.jpg
 image: images/2.jpg
