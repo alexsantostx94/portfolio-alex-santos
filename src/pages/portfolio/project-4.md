@@ -2,7 +2,7 @@
 title: Urban Yerba
 subtitle: Product Design for Beverage Company
 date: '2019-02-26'
-thumb_image: images/4_thumb.jpg
+thumb_image: images/uyCansMockup-small.png
 image: images/4.jpg
 template: project
 ---
