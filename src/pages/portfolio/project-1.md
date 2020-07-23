@@ -1,5 +1,5 @@
 ---
-title: Project Title 1
+title: Greyhound Rescue Austin | Website Redesign
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
 thumb_image: images/GRATXREWORK1.png
