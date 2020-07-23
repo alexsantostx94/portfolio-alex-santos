@@ -1,5 +1,5 @@
 ---
-title: Urban Yerba Mate
+title: Lagoon Travel App
 subtitle: Product Design
 date: '2019-04-08'
 thumb_image: images/3_thumb.jpg
