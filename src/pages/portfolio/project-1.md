@@ -3,7 +3,7 @@ title: Project Title 1
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
 thumb_image: images/GRATXREWORK1.png
-image: images/1.jpg
+image: images/pink-wallaby.png
 template: project
 ---
 
