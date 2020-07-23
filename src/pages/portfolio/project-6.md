@@ -3,7 +3,7 @@ title: Project Title 6
 subtitle: Optional Project Subtitle
 date: '2018-12-18'
 thumb_image: images/classic-cars-dribb.png
-image: images/6.jpg
+image: images/pleasant-birch.png
 template: project
 ---
 
