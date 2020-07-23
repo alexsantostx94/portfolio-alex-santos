@@ -3,7 +3,7 @@ title: Mobile Charting Healthcare App
 subtitle: UX Design and Prototype
 date: '2019-04-30'
 thumb_image: images/2_thumb.jpg
-image: images/2.jpg
+image: images/Desktop-11.png
 template: project
 ---
 
