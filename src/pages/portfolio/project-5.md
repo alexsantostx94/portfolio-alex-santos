@@ -3,7 +3,7 @@ title: Carbon Cutters
 subtitle: Logo Design & Branding
 date: '2019-01-05'
 thumb_image: images/cc-logo-card.png
-image: images/5.jpg
+image: images/fabulous-anemone.png
 template: project
 ---
 
