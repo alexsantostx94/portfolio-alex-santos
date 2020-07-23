@@ -1,6 +1,6 @@
 ---
 title: Urban Yerba MAte
-subtitle: Optional Project Subtitle
+subtitle: Product Design
 date: '2019-04-08'
 thumb_image: images/3_thumb.jpg
 image: images/3.jpg
