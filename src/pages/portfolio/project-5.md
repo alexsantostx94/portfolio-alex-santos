@@ -1,6 +1,6 @@
 ---
 title: Carbon Cutters
-subtitle: Optional Project Subtitle
+subtitle: Logo Design & Branding
 date: '2019-01-05'
 thumb_image: images/5_thumb.jpg
 image: images/5.jpg
