@@ -7,7 +7,7 @@ sections:
     content: >-
       Hi there! I'm available to collaborate on designs and development in the
       social product space. Please fill the contact form below or send me an
-      email at [alex@alexsantos.design](mailto:example@example.com).
+      email at [alexs.tx94@gmail.com](mailto:alexs.tx94@gmail.com).
     form_id: contactForm
     form_action: /thank-you
     form_fields:
