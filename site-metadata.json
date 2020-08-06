@@ -28,7 +28,7 @@
         "links": [
             {
                 "label": "lorem-ipsum",
-                "url": "lorem-ipsum",
+                "url": "https://alexsantos.design/",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
