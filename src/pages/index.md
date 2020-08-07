@@ -37,8 +37,8 @@ sections:
           computer interaction design principles into all of my designs.
       - title: Application Development
         content: >-
-          Application development for ios products programmed in Swift language.
-          I can also program web applications in C++ and Python.
+          Application development for iOS products programmed in Swift. I can
+          also program web applications in C++ and Python.
       - title: Graphic Design
         content: 'Logo design, illustrations and brand identity.'
       - title: Front-End Development
