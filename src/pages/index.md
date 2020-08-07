@@ -45,6 +45,6 @@ sections:
         content: >-
           Front-End dev in HTML, CSS, javascript as well as JAMstack
           development. I can work with you on existing designs and incorporate
-          elemnts that help your products SEo and outreach.
+          elemnts that help your products SEO and outreach.
 template: advanced
 ---
