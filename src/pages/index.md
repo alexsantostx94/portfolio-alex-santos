@@ -32,19 +32,20 @@ sections:
     grid_items:
       - title: UX Design
         content: >-
-          User Experience and User Interface design for products in the social
-          design space. I focus on mobile first design and I incorporate human
-          computer interaction design principles into all of my designs.
-      - title: Coding
+          User Experience and User Interface design for projects of any size. I
+          incorporate Human-Computer Interaction design principles into all of
+          my designs.
+      - title: Application Development
         content: >-
-          Application development for iOS products programmed in Swift. I can
-          also program web applications in C++ and Python.
+          Application development for iOS in Swift. Web applications in C++ and
+          Python.
       - title: Graphic Design
-        content: 'Logo design, illustrations and brand identity.'
+        content: 'Brand identity, logo design and illustrations.'
       - title: Front-End Development
         content: >-
-          Front-End dev in HTML, CSS, javascript as well as JAMstack
-          development. I can work with you on existing designs and incorporate
-          elemnts that help your products SEO and outreach.
+          Front-End development in HTML, CSS, javascript as well as jamstack
+          development with headerless CMS systems. I can work with you on
+          existing designs and incorporate elements that will help with your
+          websites SEO and outreach.
 template: advanced
 ---
