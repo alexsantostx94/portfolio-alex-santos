@@ -37,8 +37,8 @@ sections:
           principles into all of my designs.
       - title: Application Development
         content: >-
-          Application development for iOS products programmed in Swift. Web
-          applications for products programmed in Python and C++.
+          Application development for iOS in Swift. Web applications in C++ and
+          Python.
       - title: Graphic Design
         content: 'Brand identity, logo design and illustrations.'
       - title: Front-End Development
