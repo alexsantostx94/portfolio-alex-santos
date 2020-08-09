@@ -33,7 +33,7 @@ sections:
       - title: UX Design
         content: >-
           User Experience and User Interface design for projects of any size. I
-          incorporate human computer interaction design principles into all of
+          incorporate Human-Computer Interaction design principles into all of
           my designs.
       - title: Application Development
         content: >-
