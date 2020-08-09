@@ -6,11 +6,11 @@ sections:
     type: section_hero
     title: Designer | Developer
     content: >-
-      Freelance Designer and Developer based in Austin, Texas. I focus on
-      minimalist web designs and creative graphic designs. My design process
-      involves research, sketching, wireframing and prototyping. I aim to create
-      an open line of communication with my clients and am keen on the details
-      for all projects.
+      Freelance UX Designer and Developer based in Austin, Texas. I focus on
+      minimalist designs that vastly improve the user's experience. My design
+      process involves research, sketching, wireframing and prototyping. I aim
+      to create an open line of communication with my clients and am keen on the
+      details for all projects.
     actions:
       - label: Let's talk
         url: /contact
