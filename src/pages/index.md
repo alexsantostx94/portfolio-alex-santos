@@ -33,8 +33,8 @@ sections:
       - title: UX Design
         content: >-
           User Experience and User Interface design for products in the social
-          design space. I focus on mobile first design and I incorporate human
-          computer interaction design principles into all of my designs.
+          design space. I incorporate human computer interaction design
+          principles into all of my designs.
       - title: Application Development
         content: >-
           Application development for iOS products programmed in Swift. Web
