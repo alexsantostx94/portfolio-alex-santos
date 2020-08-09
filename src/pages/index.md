@@ -43,8 +43,9 @@ sections:
         content: 'Brand identity, logo design and illustrations.'
       - title: Front-End Development
         content: >-
-          Front-End dev in HTML, CSS, javascript as well as JAMstack
-          development. I can work with you on existing designs and incorporate
-          elemnts that help your products SEO and outreach.
+          Front-End development in HTML, CSS, javascript as well as jamstack
+          development with headerless CMS systems. I can work with you on
+          existing designs and incorporate elements that will help your websites
+          SEO and outreach.
 template: advanced
 ---
