@@ -40,7 +40,7 @@ sections:
           Application development for iOS products programmed in Swift. Web
           applications for products programmed in Python and C++.
       - title: Graphic Design
-        content: 'Logo design, illustrations and brand identity.'
+        content: 'Brand identity, logo design and illustrations.'
       - title: Front-End Development
         content: >-
           Front-End dev in HTML, CSS, javascript as well as JAMstack
