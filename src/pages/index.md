@@ -32,9 +32,9 @@ sections:
     grid_items:
       - title: UX Design
         content: >-
-          User Experience and User Interface design for products in the social
-          design space. I incorporate human computer interaction design
-          principles into all of my designs.
+          User Experience and User Interface design for projects of any size. I
+          incorporate human computer interaction design principles into all of
+          my designs.
       - title: Application Development
         content: >-
           Application development for iOS in Swift. Web applications in C++ and
