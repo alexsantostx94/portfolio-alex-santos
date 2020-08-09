@@ -35,7 +35,7 @@ sections:
           User Experience and User Interface design for products in the social
           design space. I focus on mobile first design and I incorporate human
           computer interaction design principles into all of my designs.
-      - title: Coding
+      - title: Application Development
         content: >-
           Application development for iOS products programmed in Swift. I can
           also program web applications in C++ and Python.
