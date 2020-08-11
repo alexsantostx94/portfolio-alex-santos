@@ -44,8 +44,8 @@ sections:
       - title: Front-End Development
         content: >-
           Front-End development in HTML, CSS, javascript as well as jamstack
-          development with headerless CMS systems. I can work with you on
-          existing designs and incorporate elements that will help with your
-          websites SEO and outreach.
+          development with headless CMS systems. I can work with you on existing
+          designs and incorporate elements that will help with your websites SEO
+          and outreach.
 template: advanced
 ---
