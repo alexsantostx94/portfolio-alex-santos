@@ -2,7 +2,7 @@
 title: Carbon Cutters
 subtitle: 'Web Development, Logo Design & Branding'
 date: '2019-01-05'
-thumb_image: images/cc-logo-card.png
+thumb_image: images/Frame 5.png
 image: images/fabulous-anemone.png
 template: project
 excerpt: kdkd
