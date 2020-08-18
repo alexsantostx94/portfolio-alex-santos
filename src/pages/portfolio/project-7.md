@@ -2,7 +2,7 @@
 title: Nick of All Trades
 subtitle: Web Development
 date: '2018-01-15'
-thumb_image: images/mock3-01.png
+thumb_image: images/caring-cedar.png
 image: images/magenta-robin.png
 template: project
 ---
