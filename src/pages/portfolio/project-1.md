@@ -1,5 +1,5 @@
 ---
-title: Greyhound Rescue Austin
+title: Sky Roofing Specialties Inc.
 subtitle: Website Redesign
 date: '2019-05-10'
 thumb_image: images/GRATXREWORK1.png
