@@ -18,7 +18,7 @@
             },
             {
                 "label": "Case Studies",
-                "url": "lorem-ipsum",
+                "url": "case-studies",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
