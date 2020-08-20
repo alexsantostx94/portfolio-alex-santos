@@ -1,7 +1,7 @@
 ---
 title: Case Studies
 hide_title: true
-excerpt: lorem-ipsum
+excerpt: ''
 sections:
   - title: lorem-ipsum
     section_id: lorem-ipsum
