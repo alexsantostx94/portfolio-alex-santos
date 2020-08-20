@@ -24,6 +24,7 @@ sections:
       - author: lorem-ipsum
         content: lorem-ipsum
         type: testimonial
+        avatar: images/Frame 6.png
     type: section_testimonials
 template: advanced
 ---
