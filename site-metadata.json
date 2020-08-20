@@ -20,7 +20,7 @@
                 "label": "Case Studies",
                 "url": "/case-studies",
                 "style": "link",
-                "icon_class": "lorem-ipsum",
+                "icon_class": "case-studies",
                 "new_window": false,
                 "type": "action"
             },
