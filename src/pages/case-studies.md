@@ -16,5 +16,11 @@ sections:
       - dolor sit amet
     actions: []
     type: section_hero
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    col_number: three
+    testimonials: []
+    type: section_testimonials
 template: advanced
 ---
