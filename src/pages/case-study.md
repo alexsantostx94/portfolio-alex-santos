@@ -3,7 +3,7 @@ title: Case Studies
 hide_title: false
 excerpt: lorem-ipsum
 sections:
-  - title: lorem-ipsum
+  - title: ''
     section_id: lorem-ipsum
     subtitle: ''
     col_number: three
