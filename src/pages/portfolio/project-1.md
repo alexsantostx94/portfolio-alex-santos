@@ -3,7 +3,7 @@ title: Case Study | Smith TV
 subtitle: UX design for streaming service app
 date: '2019-05-10'
 thumb_image: images/oceanic-potato.png
-image: images/stv-living.png
+image: images/green-zebra.png
 template: project
 ---
 ###### Disclaimer! *This is a concept design. I was not commissioned by Smith Optics to create this*.
