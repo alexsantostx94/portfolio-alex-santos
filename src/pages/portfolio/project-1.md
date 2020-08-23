@@ -30,31 +30,31 @@ I designed a product that stays true to Smith’s brand. A fully-fledged video s
 ## Design Process
 
 ### Ideation & Sketches
-![sketches](/images/sketches-ideation.png **sketches**)
+![sketches](/images/sketches-ideation.png)
 
 >I started out my ideation with crazy 8's and a few initial directions. I settled on my first direction and continued my design process.
 
 ### Task Flow
-![task flow](/images/Frame-12.png **task flow**)
+![task flow](/images/Frame-12.png)
 >I wanted the user's flow to be very simple and limit the choices given when they first open the app. A study from [Netflix](https://dl.acm.org/doi/pdf/10.1145/2843948) showed that a 80% of views come from their recommended algorithm. I wanted to apply that same concept for this app and greet the user with a simple choice based on how they are feeling, Thrill or Chill, and give them the option to scroll down for a Recommended list. 
 
 
 ### Low Fidelity Mockup
-![Mobile](/images/mobile-lowfi.png **low fidelity mobile**)
+![Mobile](/images/mobile-lowfi.png)
 >I started with a mobile first design process and scaled that up to fit a TV based app.
 
-![TV](/images/tv-lowfi.png **low fidelity tv**)
+![TV](/images/tv-lowfi.png)
 ### Component Library
 
 > I wanted to create a component based design system that is ready for scalability.
 
 
-![component library](/images/component-library.png **component library**)
+![component library](/images/component-library.png)
 ### High Fidelity Mockup
-![Mobile](/images/hifi-mobile.png **high fidelity mobile mockup**)
+![Mobile](/images/hifi-mobile.png)
 >I used a toggle at the top of the screen to give the user the ability to quickly switch back and forth from the two main categories of the app, Thrill or Chill.
 
-![TV](/images/hifi-tv.png **high fidelity tv mockup**)
+![TV](/images/hifi-tv.png)
 ## Prototypes
 ###### TV
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FU2f35cFn8F9qHC1BJu3zTC%2FSmith-TV%3Fnode-id%3D125%253A167%26viewport%3D470%252C44%252C0.04372768849134445%26scaling%3Dscale-down&chrome=DOCUMENTATION" allowfullscreen></iframe>
