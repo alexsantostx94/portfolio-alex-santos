@@ -31,7 +31,7 @@ I designed a product that stays true to Smith’s brand. A fully-fledged video s
 ## Design Process
 
 #### Ideation & Sketches
-![sketches](/images/sketches-ideation.png)
+![sketches](/images/terrific-sparrow.png)
 
 >I started out my ideation with crazy 8's and a few initial directions. I settled on my first direction and continued my design process.
 
@@ -46,7 +46,7 @@ I designed a product that stays true to Smith’s brand. A fully-fledged video s
 
 >I started with a mobile first design process and scaled that up to fit a TV based app.
 
-![TV](/images/tv-lowfi.png)
+![TV](/images/panoramic-daffodil.png)
 
 #### Component Library
 
