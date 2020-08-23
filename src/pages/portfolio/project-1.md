@@ -1,5 +1,5 @@
 ---
-title: Sky Roofing Specialties Inc.
+title: 'Case Study '
 subtitle: 'Web Design & Development, Logo Design'
 date: '2019-05-10'
 thumb_image: images/successful-wallaby.png
