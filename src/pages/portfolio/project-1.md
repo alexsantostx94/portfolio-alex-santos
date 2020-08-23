@@ -23,7 +23,7 @@ According to [The Nielsen Total Audience Report](https://www.nielsen.com/us/en/i
 
 I designed a product that stays true to Smith’s brand. A fully-fledged video service available on multiple platforms. A product with a minimal interface that allows users to discover thrilling videos like downhill skiing or something to wind down like slow tv.
 ## Users & Audience
-![Empathy Map & User Persona](/images/cool-sunflower.png)
+![Empathy Map & User Persona](/images/green-zebra.png)
 
 >I wanted my user's persona to embody someone that is tired of Netflix and wants to feel like he is on the slopes or in the backcountry. He enjoys watching sports documentaries and wants to follow his favorite athletes.
 
@@ -36,7 +36,7 @@ I designed a product that stays true to Smith’s brand. A fully-fledged video s
 >I started out my ideation with crazy 8's and a few initial directions. I settled on my first direction and continued my design process.
 
 #### Task Flow
-![task flow](/images/pleasant-ant.png)
+![task flow](/images/cool-sunflower.png)
 
 >I wanted the user's flow to be very simple and limit the choices given when they first open the app. A study from [Netflix](https://dl.acm.org/doi/pdf/10.1145/2843948) showed that a 80% of views come from their recommended algorithm. I wanted to apply that same concept for this app and greet the user with a simple choice based on how they are feeling, Thrill or Chill, and give them the option to scroll down for a Recommended list. 
 
