@@ -32,7 +32,7 @@ I designed a product that stays true to Smith’s brand. A fully-fledged video s
 >I started out my ideation with crazy 8's and a few initial directions. I settled on my first direction and continued my design process.
 
 ### Task Flow
-![task flow](Frame-12.png)
+![task flow](/Frame-12.png)
 >I wanted the user's flow to be very simple and limit the choices given when they first open the app. A study from [Netflix](https://dl.acm.org/doi/pdf/10.1145/2843948) showed that a 80% of views come from their recommended algorithm. I wanted to apply that same concept for this app and greet the user with a simple choice based on how they are feeling, Thrill or Chill, and give them the option to scroll down for a Recommended list. 
 ### Low Fidelity Mockup
 ![Mobile](mobile-lowfi.png)
