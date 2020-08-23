@@ -1,6 +1,6 @@
 ---
 title: Case Study | Smith TV
-subtitle: 'Web Design & Development, Logo Design'
+subtitle: UX design
 date: '2019-05-10'
 thumb_image: images/successful-wallaby.png
 image: images/Frame 4.png
