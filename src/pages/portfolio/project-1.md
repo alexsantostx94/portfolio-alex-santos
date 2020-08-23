@@ -1,6 +1,6 @@
 ---
 title: Case Study | Smith TV
-subtitle: UX design
+subtitle: UX design for streaming service app
 date: '2019-05-10'
 thumb_image: images/successful-wallaby.png
 image: images/Frame 4.png
