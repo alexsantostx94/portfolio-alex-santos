@@ -53,7 +53,7 @@ I designed a product that stays true to Smith’s brand. A fully-fledged video s
 > I wanted to create a component based design system that is ready for scalability.
 
 
-![component library](/images/cool-sunflower.png)
+![component library](/images/marvelous-primrose.png)
 
 #### High Fidelity Mockup
 ![Mobile](/images/hifi-mobile.png)
