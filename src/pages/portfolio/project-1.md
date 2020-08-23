@@ -8,4 +8,4 @@ template: project
 ---
 [skyroofingaustin.com](https://www.skyroofingaustin.com/)
 
-![Empathy Map & User Persona](/images/user-persona-empath.png)
+![Empathy Map & User Persona](/user-persona-empath.png)
