@@ -14,7 +14,7 @@ Smith Optics has over 50 years of innovation and authenticity in optical wear. S
 
 ## Challenge
 
-Smith has decided to create a streaming video service to share their content with the world. They have asked for visual designs for a remote-control-based TV app, and a smartphone app.
+Smith has decided to create a streaming video service to share their content with the world. They have asked for visual designs for a remote-control-based TV app, and a mobile app.
 
 ## Research
 According to [The Nielsen Total Audience Report](https://www.nielsen.com/us/en/insights/article/2020/the-nielsen-total-audience-report-hub/), in the second quarter of 2020 streaming video consumption grew, accounting for 25% of total television viewing minutes, up from 19% in the fourth quarter of 2019.  Currently in the TV streaming app market, there are very few brands similar to Smith that have launched streaming services. The most notable brand with a similar style that has launched a streaming service is Red Bull. Red Bull’s TV platform is geared more towards adventure. With sports television apps making up [24%](https://www.nielsen.com/us/en/insights/article/2020/the-nielsen-total-audience-report-hub/) of views, there is a viable market for an Outdoor Sports app that appeals to the user's itching to get back outside while we are still in the midst of a global pandemic.
