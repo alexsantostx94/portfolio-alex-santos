@@ -50,7 +50,7 @@ I designed a product that stays true to Smith’s brand. A fully-fledged video s
 > I wanted to create a component based design system that is ready for scalability.
 
 
-![component library](component-library.png)
+![component library](/images/component-library.png)
 ### High Fidelity Mockup
 ![Mobile](/images/hifi-mobile.png)
 >I used a toggle at the top of the screen to give the user the ability to quickly switch back and forth from the two main categories of the app, Thrill or Chill.
