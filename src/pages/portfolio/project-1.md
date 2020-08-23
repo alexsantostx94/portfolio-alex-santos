@@ -1,5 +1,5 @@
 ---
-title: 'Case Study '
+title: Case Study | Smith TV
 subtitle: 'Web Design & Development, Logo Design'
 date: '2019-05-10'
 thumb_image: images/successful-wallaby.png
