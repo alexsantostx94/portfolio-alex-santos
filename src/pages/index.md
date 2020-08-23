@@ -28,7 +28,7 @@ sections:
     title: What I Do
     subtitle: ''
     col_number: two
-    is_numbered: false
+    is_numbered: true
     grid_items:
       - title: UX Design
         content: >-
