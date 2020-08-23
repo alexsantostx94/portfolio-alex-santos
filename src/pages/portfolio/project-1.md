@@ -56,11 +56,11 @@ I designed a product that stays true to Smith’s brand. A fully-fledged video s
 ![component library](/images/marvelous-primrose.png)
 
 #### High Fidelity Mockup
-![Mobile](/images/hifi-mobile.png)
+![Mobile](/images/groovy-aluminum.png)
 
 >I used a toggle at the top of the screen to give the user the ability to quickly switch back and forth from the two main categories of the app, Thrill or Chill.
 
-![TV](/images/hifi-tv.png)
+![TV](/images/groovy-thyme.png)
 
 ## Prototypes
 ###### TV
