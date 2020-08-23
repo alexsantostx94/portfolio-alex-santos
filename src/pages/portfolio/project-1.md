@@ -24,33 +24,34 @@ According to [The Nielsen Total Audience Report](https://www.nielsen.com/us/en/i
 I designed a product that stays true to Smith’s brand. A fully-fledged video service available on multiple platforms. A product with a minimal interface that allows users to discover thrilling videos like downhill skiing or something to wind down like slow tv.
 ## Users & Audience
 ![Empathy Map & User Persona](/images/user-persona-empath.png)
+*empathy map & user persona*
 >I wanted my user's persona to embody someone that is tired of Netflix and wants to feel like he is on the slopes or in the backcountry. He enjoys watching sports documentaries and wants to follow his favorite athletes.
 
 
 ## Design Process
 
-### Ideation & Sketches
+#### Ideation & Sketches
 ![sketches](/images/sketches-ideation.png)
 
 >I started out my ideation with crazy 8's and a few initial directions. I settled on my first direction and continued my design process.
 
-### Task Flow
+#### Task Flow
 ![task flow](/images/Frame-12.png)
 >I wanted the user's flow to be very simple and limit the choices given when they first open the app. A study from [Netflix](https://dl.acm.org/doi/pdf/10.1145/2843948) showed that a 80% of views come from their recommended algorithm. I wanted to apply that same concept for this app and greet the user with a simple choice based on how they are feeling, Thrill or Chill, and give them the option to scroll down for a Recommended list. 
 
 
-### Low Fidelity Mockup
+#### Low Fidelity Mockup
 ![Mobile](/images/mobile-lowfi.png)
 >I started with a mobile first design process and scaled that up to fit a TV based app.
 
 ![TV](/images/tv-lowfi.png)
-### Component Library
+#### Component Library
 
 > I wanted to create a component based design system that is ready for scalability.
 
 
 ![component library](/images/component-library.png)
-### High Fidelity Mockup
+#### High Fidelity Mockup
 ![Mobile](/images/hifi-mobile.png)
 >I used a toggle at the top of the screen to give the user the ability to quickly switch back and forth from the two main categories of the app, Thrill or Chill.
 
