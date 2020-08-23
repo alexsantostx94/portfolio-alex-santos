@@ -23,7 +23,7 @@ According to [The Nielsen Total Audience Report](https://www.nielsen.com/us/en/i
 
 I designed a product that stays true to Smith’s brand. A fully-fledged video service available on multiple platforms. A product with a minimal interface that allows users to discover thrilling videos like downhill skiing or something to wind down like slow tv.
 ## Users & Audience
-![Empathy Map & User Persona](/images/user-persona-empath.png)
+![Empathy Map & User Persona](/images/cool-sunflower.png)
 
 >I wanted my user's persona to embody someone that is tired of Netflix and wants to feel like he is on the slopes or in the backcountry. He enjoys watching sports documentaries and wants to follow his favorite athletes.
 
