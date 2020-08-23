@@ -42,7 +42,7 @@ I designed a product that stays true to Smith’s brand. A fully-fledged video s
 
 
 #### Low Fidelity Mockup
-![Mobile](/images/mobile-lowfi.png)
+![Mobile](/images/magical-sparrow.png)
 
 >I started with a mobile first design process and scaled that up to fit a TV based app.
 
@@ -53,7 +53,7 @@ I designed a product that stays true to Smith’s brand. A fully-fledged video s
 > I wanted to create a component based design system that is ready for scalability.
 
 
-![component library](/images/component-library.png)
+![component library](/images/cool-sunflower.png)
 
 #### High Fidelity Mockup
 ![Mobile](/images/hifi-mobile.png)
