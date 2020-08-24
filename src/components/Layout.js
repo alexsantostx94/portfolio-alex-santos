@@ -21,16 +21,6 @@ export default class Body extends React.Component {
                     <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png"/>
                     <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png"/>
                     <link rel="manifest" href="/images/site.webmanifest"></link>
-                    <!-- Global site tag (gtag.js) - Google Analytics -->
-                    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-175037654-1"></script>
-                    <script>
-                    window.dataLayer = window.dataLayer || [];
-                    function gtag(){dataLayer.push(arguments);}
-                    gtag('js', new Date());
-
-                    gtag('config', 'UA-175037654-1');
-                    </script>
-
                 </Helmet>
                 <div id="page" className={'site palette-' + _.get(this.props, 'pageContext.site.siteMetadata.color_scheme', null) + ' accent-' + _.get(this.props, 'pageContext.site.siteMetadata.accent_color', null)}>
                   <Header {...this.props} />
