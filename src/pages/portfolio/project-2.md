@@ -6,5 +6,4 @@ thumb_image: images/fabulous-hickory.png
 image: images/Desktop-11.png
 template: project
 ---
-[InVision Prototype](https://projects.invisionapp.com/prototype/SanFranEMS-ck3kugun2000pdp01gaeowtvp/play/e40c0ec5)
-<iframe width="442" height="935" src="//projects.invisionapp.com/prototype/SanFranEMS-ck3kugun2000pdp01gaeowtvp/play/e40c0ec5" frameborder="0" allowfullscreen></iframe>
+[InVision Prototype]
