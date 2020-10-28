@@ -4,7 +4,7 @@ subtitle: October 2020
 excerpt: lorem-ipsum
 date: '2020-10-28'
 template: project
-thumb_image: images/storyboards-ideation.png
+thumb_image: images/wireframes.png
 ---
 ## Introduction
 The United States Air Force has expressed plans to increase diversity of future recruits and specifically for Pilot positions. They have asked for concepts on to improve the search feature design of the Air Force website.
