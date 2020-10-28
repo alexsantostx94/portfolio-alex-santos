@@ -1,6 +1,6 @@
 ---
 title: Case Study Story | Microinteraction
-subtitle: lorem-ipsum
+subtitle: October 2020
 excerpt: lorem-ipsum
 date: '2020-10-28'
 template: project
