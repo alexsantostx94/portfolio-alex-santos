@@ -29,6 +29,8 @@ The user audience is primarily hopeful recruits who are trying to learn more abo
 
 >I wanted the user's flow to be very simple and limit the choices given when they first open the app. A study from [Netflix](https://dl.acm.org/doi/pdf/10.1145/2843948) showed that a 80% of views come from their recommended algorithm. I wanted to apply that same concept for this app and greet the user with a simple choice based on how they are feeling, Thrill or Chill, and give them the option to scroll down for a Recommended list. 
 
+#### Initial Prototype
+#### Class Critique
 
 
 ## Solution
@@ -36,6 +38,7 @@ The user audience is primarily hopeful recruits who are trying to learn more abo
 I designed a product that stays true to Smith’s brand. A fully-fledged video service available on multiple platforms. A product with a minimal interface that allows users to discover thrilling videos like downhill skiing or something to wind down like slow tv.
 
 ##  Final Prototype
+
 
 ## Take Away
 Designing a video streaming service on multiple platforms that allows users to immerse themselves in their favorite content was a project I really enjoyed. I especially enjoyed using an existing brand's identity and values to guide my creative process. Thank you for reading.
