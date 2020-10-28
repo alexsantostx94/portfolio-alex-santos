@@ -1,5 +1,5 @@
 ---
-title: Case Study Story | Microinteraction
+title: Case Study | Microinteraction
 subtitle: October 2020
 excerpt: lorem-ipsum
 date: '2020-10-28'
