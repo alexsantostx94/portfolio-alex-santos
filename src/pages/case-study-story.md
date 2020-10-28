@@ -29,18 +29,21 @@ The user audience is primarily hopeful recruits who are trying to learn more abo
 #### Wireframes
 ![wireframes](/images/wireframes.png)
 
->I wanted the user's flow to be very simple and limit the choices given when they first open the app. A study from [Netflix](https://dl.acm.org/doi/pdf/10.1145/2843948) showed that a 80% of views come from their recommended algorithm. I wanted to apply that same concept for this app and greet the user with a simple choice based on how they are feeling, Thrill or Chill, and give them the option to scroll down for a Recommended list. 
+>I wanted the flow 
 
 #### Initial Prototype
 
-[first prototype](https://framer.com/share/PROJECT-3-miXD--98mipLE6q6XkAGCc1Tlj)
+[First prototype](https://framer.com/share/PROJECT-3-miXD--98mipLE6q6XkAGCc1Tlj)
 
 #### Class Critique
+wip
 
+#### UX Writing Updates
+wip
 
 ## Solution
 
-I designed a product that stayed true to the Air Force identity.
+I designed a search microinteraction that stayed true to the Air Force identity. With feedback from the class I was able to improve the overall experience of searching for information on the Air Force website.
 
 ##  Final Prototype
 
@@ -48,4 +51,4 @@ I designed a product that stayed true to the Air Force identity.
 
 
 ## Take Away
-Conceptualizing 
+Conceptualizing a microinteraction search feature for the Air Force was.
