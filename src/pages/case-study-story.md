@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: 'Case Study | '
 subtitle: lorem-ipsum
 excerpt: lorem-ipsum
 date: '2020-10-28'
