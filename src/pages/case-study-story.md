@@ -22,7 +22,7 @@ The user audience is primarily hopeful recruits who are trying to learn more abo
 ## Design Process
 
 #### Storyboards
-![storyboards](/images/ideation-storyboards.png)
+![storyboards](/images/storyboards-ideation.png)
 
 >I started out my ideation process with storyboards. The first storyboard is a frustrating experience of the current search feature. The second storyboard is an experience of my conecpt for an improved search experience.
 
