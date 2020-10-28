@@ -22,12 +22,12 @@ The user audience is primarily hopeful recruits who are trying to learn more abo
 ## Design Process
 
 #### Storyboards
-![storyboards](/images/terrific-sparrow.png)
+![storyboards](/images/ideation-storyboards.png)
 
 >I started out my ideation process with storyboards. The first storyboard is a frustrating experience of the current search feature. The second storyboard is an experience of my conecpt for an improved search experience.
 
 #### Wireframes
-![wireframes](/images/cool-sunflower.png)
+![wireframes](/images/wireframes.png)
 
 >I wanted the user's flow to be very simple and limit the choices given when they first open the app. A study from [Netflix](https://dl.acm.org/doi/pdf/10.1145/2843948) showed that a 80% of views come from their recommended algorithm. I wanted to apply that same concept for this app and greet the user with a simple choice based on how they are feeling, Thrill or Chill, and give them the option to scroll down for a Recommended list. 
 
