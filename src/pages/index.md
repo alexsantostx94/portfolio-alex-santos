@@ -6,11 +6,8 @@ sections:
     type: section_hero
     title: Experience Designer
     content: >-
-      UX Designer and Developer based in Austin, Texas. I focus on minimalist
-      visual designs that vastly improve the user's experience. My design
-      process involves research, sketching, wireframing and prototyping. I aim
-      to create an open line of communication with my clients and am keen on the
-      details for all projects.
+      Creative designer with a keen sense of design priciples and thorough
+      understanding of the development process.
     actions:
       - label: Let's talk
         url: /contact
