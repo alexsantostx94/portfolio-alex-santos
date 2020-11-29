@@ -46,9 +46,7 @@ sections:
           stakeholders
       - title: Visual Design
         content: >-
-          Front-End development in HTML, CSS, javascript as well as jamstack
-          development with headless CMS systems. I can work with you on existing
-          designs and incorporate elements that will help with your websites SEO
-          and outreach.
+          I have an eye for creative visual designs that truly capture the
+          audiences attention.
 template: advanced
 ---
