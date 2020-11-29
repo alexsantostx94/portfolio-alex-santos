@@ -6,8 +6,8 @@ sections:
     type: section_hero
     title: Experience Designer
     content: >-
-      Creative designer with a keen sense of design principles and thorough
-      understanding of the development process.
+      Human Centered Designer with a keen sense of design principles and
+      thorough understanding of the development process.
     actions:
       - label: Let's talk
         url: /contact
