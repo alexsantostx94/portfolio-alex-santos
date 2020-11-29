@@ -39,7 +39,7 @@ sections:
         content: >-
           Application development for iOS in Swift. Web applications in C++ and
           Python.
-      - title: Graphic Design
+      - title: UX Research
         content: 'Brand identity, package design, logo design and illustrations.'
       - title: Front-End Development
         content: >-
