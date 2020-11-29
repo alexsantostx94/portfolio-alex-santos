@@ -36,8 +36,9 @@ sections:
           Human-Computer Interaction design principles into all of my designs.
       - title: AR Design
         content: >-
-          Application development for iOS in Swift. Web applications in C++ and
-          Python.
+          Augmented Reality design for Instagram/Facebook, Snapchat and Web
+          experiences. I believe that AR should be completely accessible and
+          that barriers to using it are low.
       - title: UX Research
         content: 'Brand identity, package design, logo design and illustrations.'
       - title: Visual Design
