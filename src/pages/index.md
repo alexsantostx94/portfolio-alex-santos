@@ -41,7 +41,7 @@ sections:
           Python.
       - title: UX Research
         content: 'Brand identity, package design, logo design and illustrations.'
-      - title: Front-End DevelopmentAR  Design
+      - title: AR  Design
         content: >-
           Front-End development in HTML, CSS, javascript as well as jamstack
           development with headless CMS systems. I can work with you on existing
