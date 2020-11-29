@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: Designer | Developer
+    title: Exper
     content: >-
       UX Designer and Developer based in Austin, Texas. I focus on minimalist
       visual designs that vastly improve the user's experience. My design
