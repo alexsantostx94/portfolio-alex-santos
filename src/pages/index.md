@@ -40,7 +40,10 @@ sections:
           experiences. I believe that AR should be completely accessible and
           that barriers to using it are low.
       - title: UX Research
-        content: 'Brand identity, package design, logo design and illustrations.'
+        content: >-
+          I conduct thorough User Research and ensure that I am equally
+          advocating for user's as I am taking into account the needs from
+          stakeholders
       - title: Visual Design
         content: >-
           Front-End development in HTML, CSS, javascript as well as jamstack
