@@ -35,7 +35,7 @@ sections:
           User Experience and User Interface design for projects of any size. I
           incorporate Human-Computer Interaction design principles into all of
           my designs.
-      - title: Application Development
+      - title: Visual Design
         content: >-
           Application development for iOS in Swift. Web applications in C++ and
           Python.
