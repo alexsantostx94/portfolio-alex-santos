@@ -32,9 +32,8 @@ sections:
     grid_items:
       - title: UX Design
         content: >-
-          User Experience and User Interface design for projects of any size. I
-          incorporate Human-Computer Interaction design principles into all of
-          my designs.
+          User Experience and User Interface design. I incorporate
+          Human-Computer Interaction design principles into all of my designs.
       - title: AR Design
         content: >-
           Application development for iOS in Swift. Web applications in C++ and
