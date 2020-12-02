@@ -30,7 +30,9 @@ sections:
       - title: UX Design
         content: >-
           User Experience and User Interface design. I incorporate
-          Human-Computer Interaction design principles into all of my designs.
+          Human-Computer Interaction design principles into all of my designs. I
+          have a strong understanding of UI mobile patterns and incorporate my
+          knowledge when building intuitive interfaces.
       - title: AR Design
         content: >-
           Augmented Reality design for Instagram/Facebook, Snapchat and Web
