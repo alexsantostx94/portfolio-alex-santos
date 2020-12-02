@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: Experience Designer
+    title: UX Designer
     content: >-
       Human Centered Designer with a keen sense of design principles and
       thorough understanding of the development process.
