@@ -1,5 +1,5 @@
 ---
-title: 'Air '
+title: Air Force Science
 subtitle: Design & Prototype
 date: '2019-04-08'
 thumb_image: images/fierce-chili.png
