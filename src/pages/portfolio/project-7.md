@@ -1,6 +1,6 @@
 ---
 title: Nick of All Trades
-subtitle: Web Development
+subtitle: Web Design velopment
 date: '2018-01-15'
 thumb_image: images/caring-cedar.png
 image: images/magenta-robin.png
