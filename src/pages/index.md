@@ -42,8 +42,6 @@ sections:
           advocating for user's as I am taking into account the needs from
           stakeholders
       - title: Visual Design
-        content: >-
-          I have an eye for creative visual designs that truly capture the
-          audiences attention.
+        content: Experience executing creative visual designs.
 template: advanced
 ---
