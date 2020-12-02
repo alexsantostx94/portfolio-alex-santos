@@ -31,7 +31,7 @@ sections:
         content: >-
           User Experience and User Interface design. I incorporate
           Human-Computer Interaction design principles into all of my designs. I
-          have a strong understanding of UI mobile patterns and incorporate my
+          have a strong understanding of UI mobile patterns and incorporate that
           knowledge when building intuitive interfaces.
       - title: AR Design
         content: >-
