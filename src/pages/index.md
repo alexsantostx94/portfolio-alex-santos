@@ -42,6 +42,9 @@ sections:
           card sorting, affinity mapping, thematic analysis and creating UX
           research reports.
       - title: Visual Design
-        content: Experience executing creative visual designs.
+        content: >-
+          Experience executing creative visual designs. My process begins by
+          gaining inspiration from a variety of sources and crafting unique
+          visuals that captivate audiences.
 template: advanced
 ---
