@@ -40,10 +40,9 @@ sections:
           human experience by immersing us into a 
       - title: UX Research
         content: >-
-          I conduct thorough User Research by utilizing various methods based on
-          specific project goals. I have experience conducting user interviews,
-          card sorting, affinity mapping, thematic analysis and creating UX
-          research reports.
+          I conduct thorough User Research by utilizing user interviews, card
+          sorting, affinity mapping, thematic analysis and creating UX research
+          reports.
       - title: Visual Design
         content: >-
           Experience executing creative visual designs. My process begins by
