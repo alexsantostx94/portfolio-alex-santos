@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: Experience Designer
+    title: UX Designer
     content: >-
       Human Centered Designer with a keen sense of design principles and
       thorough understanding of the development process.
@@ -34,16 +34,17 @@ sections:
       - title: AR Design
         content: >-
           Augmented Reality design for Instagram/Facebook, Snapchat and Web
-          experiences. I believe that AR should be completely accessible and
-          that barriers to using it are low.
+          experiences. I believe that AR should be completely accessible.
       - title: UX Research
         content: >-
-          I conduct thorough User Research and ensure that I am equally
-          advocating for user's as I am taking into account the needs from
-          stakeholders
+          I conduct thorough User Research by utilizing various methods based on
+          specific project goals. I have experience conducting user interviews,
+          card sorting, affinity mapping, thematic analysis and creating UX
+          research reports.
       - title: Visual Design
         content: >-
-          I have an eye for creative visual designs that truly capture the
-          audiences attention.
+          Experience executing creative visual designs. My process begins by
+          gaining inspiration from a variety of sources and crafting unique
+          visuals that captivate audiences.
 template: advanced
 ---
