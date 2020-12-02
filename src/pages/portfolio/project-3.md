@@ -6,4 +6,3 @@ thumb_image: images/fierce-chili.png
 image: images/asantosLagoonApp1.png
 template: project
 ---
-[InVision Prototype](https://invis.io/94YFQYOTNKV)
