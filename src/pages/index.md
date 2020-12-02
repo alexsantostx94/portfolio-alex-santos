@@ -38,9 +38,10 @@ sections:
           that barriers to using it are low.
       - title: UX Research
         content: >-
-          I conduct thorough User Research and ensure that I am equally
-          advocating for user's as I am taking into account the needs from
-          stakeholders
+          I conduct thorough User Research by utilizing various methods based on
+          specific project goals. I have experience conducting user interviews,
+          card sorting, affinity mapping, thematic analysis and creating UX
+          research reports.
       - title: Visual Design
         content: Experience executing creative visual designs.
 template: advanced
