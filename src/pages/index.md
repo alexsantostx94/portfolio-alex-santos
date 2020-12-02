@@ -34,8 +34,7 @@ sections:
       - title: AR Design
         content: >-
           Augmented Reality design for Instagram/Facebook, Snapchat and Web
-          experiences. I believe that AR should be completely accessible and
-          that barriers to using it are low.
+          experiences. I believe that AR should be completely accessible.
       - title: UX Research
         content: >-
           I conduct thorough User Research by utilizing various methods based on
