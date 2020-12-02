@@ -47,7 +47,8 @@ sections:
       - title: Visual Design
         content: >-
           Experience executing creative visual designs. My process begins by
-          gaining inspiration from a variety of sources and crafting unique
-          visuals that captivate audiences.
+          gaining inspiration from a variety of sources and then using that
+          inspiration to craft unique visuals that I iterate on until they have
+          the power to captivate audiences.
 template: advanced
 ---
