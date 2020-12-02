@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: UX Designer
+    title: Designer
     content: >-
       Cross-discipline designer with a keen focus on making visually striking
       user experiences that are equally engaging as they are accessible.
