@@ -6,8 +6,8 @@ sections:
     type: section_hero
     title: UX Designer
     content: >-
-      Human Centered Designer with a keen sense of design principles and
-      thorough understanding of the development process.
+      Cross-discipline designer with a keen focus on making visually striking
+      user experiences that are equally engaging as they are accessible.
     actions:
       - label: Let's talk
         url: /contact
