@@ -4,10 +4,10 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: UX Designer
+    title: Designer
     content: >-
-      Human Centered Designer with a keen sense of design principles and
-      thorough understanding of the development process.
+      Cross-discipline designer with a keen focus on making visually striking
+      user experiences that are equally engaging as they are accessible.
     actions:
       - label: Let's talk
         url: /contact
@@ -30,21 +30,24 @@ sections:
       - title: UX Design
         content: >-
           User Experience and User Interface design. I incorporate
-          Human-Computer Interaction design principles into all of my designs.
+          Human-Computer Interaction design principles into all of my designs. I
+          have a strong understanding of UI mobile patterns and incorporate that
+          knowledge when building intuitive interfaces.
       - title: AR Design
         content: >-
           Augmented Reality design for Instagram/Facebook, Snapchat and Web
-          experiences. I believe that AR should be completely accessible.
+          experiences. I believe that AR has the power to improve our lived-in
+          human experience by immersing us into the future.
       - title: UX Research
         content: >-
-          I conduct thorough User Research by utilizing various methods based on
-          specific project goals. I have experience conducting user interviews,
-          card sorting, affinity mapping, thematic analysis and creating UX
-          research reports.
+          I conduct thorough User Research by utilizing user interviews, card
+          sorting, affinity mapping, thematic analysis and creating UX research
+          reports.
       - title: Visual Design
         content: >-
           Experience executing creative visual designs. My process begins by
-          gaining inspiration from a variety of sources and crafting unique
-          visuals that captivate audiences.
+          gaining inspiration from a variety of sources and then using that
+          inspiration to craft unique visuals that I iterate on until they have
+          the power to captivate audiences.
 template: advanced
 ---
