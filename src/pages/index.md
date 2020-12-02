@@ -4,13 +4,10 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: Designer | Developer
+    title: Experience Designer
     content: >-
-      UX Designer and Developer based in Austin, Texas. I focus on minimalist
-      visual designs that vastly improve the user's experience. My design
-      process involves research, sketching, wireframing and prototyping. I aim
-      to create an open line of communication with my clients and am keen on the
-      details for all projects.
+      Human Centered Designer with a keen sense of design principles and
+      thorough understanding of the development process.
     actions:
       - label: Let's talk
         url: /contact
@@ -32,20 +29,21 @@ sections:
     grid_items:
       - title: UX Design
         content: >-
-          User Experience and User Interface design for projects of any size. I
-          incorporate Human-Computer Interaction design principles into all of
-          my designs.
-      - title: Application Development
+          User Experience and User Interface design. I incorporate
+          Human-Computer Interaction design principles into all of my designs.
+      - title: AR Design
         content: >-
-          Application development for iOS in Swift. Web applications in C++ and
-          Python.
-      - title: Graphic Design
-        content: 'Brand identity, package design, logo design and illustrations.'
-      - title: Front-End Development
+          Augmented Reality design for Instagram/Facebook, Snapchat and Web
+          experiences. I believe that AR should be completely accessible and
+          that barriers to using it are low.
+      - title: UX Research
         content: >-
-          Front-End development in HTML, CSS, javascript as well as jamstack
-          development with headless CMS systems. I can work with you on existing
-          designs and incorporate elements that will help with your websites SEO
-          and outreach.
+          I conduct thorough User Research and ensure that I am equally
+          advocating for user's as I am taking into account the needs from
+          stakeholders
+      - title: Visual Design
+        content: >-
+          I have an eye for creative visual designs that truly capture the
+          audiences attention.
 template: advanced
 ---
