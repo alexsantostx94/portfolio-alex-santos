@@ -6,8 +6,8 @@ sections:
     type: section_hero
     title: Designer
     content: >-
-      Cross-discipline designer with a keen focus on making visually striking
-      user experiences that are equally engaging as they are accessible.
+      Cross-discipline designer with a keen focus on making engaging user
+      experiences that are equally accessible as they are visually striking.
     actions:
       - label: Let's talk
         url: /contact
@@ -36,13 +36,12 @@ sections:
       - title: AR Design
         content: >-
           Augmented Reality design for Instagram/Facebook, Snapchat and Web
-          experiences. I believe that AR has the power to improve our lived-in
-          human experience by immersing us into the future.
+          experiences.
       - title: UX Research
         content: >-
           I conduct thorough User Research by utilizing user interviews, card
-          sorting, affinity mapping, thematic analysis and creating UX research
-          reports.
+          sorting, affinity mapping, thematic analysis, quantitative analysis
+          and creating user research reports.
       - title: Visual Design
         content: >-
           Experience executing creative visual designs. My process begins by
