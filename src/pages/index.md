@@ -6,8 +6,8 @@ sections:
     type: section_hero
     title: Designer
     content: >-
-      Cross-discipline designer with a keen focus on making visually striking
-      user experiences that are equally engaging as they are accessible.
+      Cross-discipline designer with a keen focus on making engaging user
+      experiences that are equally accessible as they are visually striking.
     actions:
       - label: Let's talk
         url: /contact
