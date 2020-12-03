@@ -36,8 +36,7 @@ sections:
       - title: AR Design
         content: >-
           Augmented Reality design for Instagram/Facebook, Snapchat and Web
-          experiences. I believe that AR has the power to improve our lived-in
-          human experience by immersing us into the future.
+          experiences.
       - title: UX Research
         content: >-
           I conduct thorough User Research by utilizing user interviews, card
