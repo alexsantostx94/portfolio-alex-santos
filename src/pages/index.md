@@ -40,8 +40,8 @@ sections:
       - title: UX Research
         content: >-
           I conduct thorough User Research by utilizing user interviews, card
-          sorting, affinity mapping, thematic analysis and creating UX research
-          reports.
+          sorting, affinity mapping, thematic analysis, quantitative analysis
+          and creating user research reports.
       - title: Visual Design
         content: >-
           Experience executing creative visual designs. My process begins by
