@@ -47,9 +47,7 @@ sections:
           and creating user research reports.
       - title: Visual Design
         content: >-
-          Experience executing creative visual designs. My process begins by
-          gaining inspiration from a variety of sources and then using that
-          inspiration to craft unique visuals that I iterate on until they have
-          the power to captivate audiences.
+          Augmented Reality design for Instagram/Facebook, Snapchat and Web
+          experiences.
 template: advanced
 ---
