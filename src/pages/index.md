@@ -38,8 +38,10 @@ sections:
           knowledge when building intuitive interfaces.
       - title: AR Design
         content: >-
-          Augmented Reality design for Instagram/Facebook, Snapchat and Web
-          experiences.
+          Experience executing creative visual designs. My process begins by
+          gaining inspiration from a variety of sources and then using that
+          inspiration to craft unique visuals that I iterate on until they have
+          the power to captivate audiences.
       - title: UX Research
         content: >-
           I conduct thorough User Research by utilizing user interviews, card
