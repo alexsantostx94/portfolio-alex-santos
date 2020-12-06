@@ -4,10 +4,13 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: Designer
+    title: Experience Designer
     content: >-
-      Cross-discipline designer with a keen focus on making engaging user
-      experiences that are equally accessible as they are visually striking.
+      Cross-discipline designer with a keen focus on understanding the humans I
+      am designing for and how the designs I make can improve their lived in
+      experience.  My design approach is always iterative and emphasizes problem
+      solving the pain points a user feels to create thoughtful user
+      experiences.
     actions:
       - label: Let's talk
         url: /contact
@@ -33,20 +36,20 @@ sections:
           Human-Computer Interaction design principles into all of my designs. I
           have a strong understanding of UI mobile patterns and incorporate that
           knowledge when building intuitive interfaces.
-      - title: AR Design
-        content: >-
-          Augmented Reality design for Instagram/Facebook, Snapchat and Web
-          experiences.
-      - title: UX Research
-        content: >-
-          I conduct thorough User Research by utilizing user interviews, card
-          sorting, affinity mapping, thematic analysis, quantitative analysis
-          and creating user research reports.
       - title: Visual Design
         content: >-
           Experience executing creative visual designs. My process begins by
           gaining inspiration from a variety of sources and then using that
           inspiration to craft unique visuals that I iterate on until they have
           the power to captivate audiences.
+      - title: UX Research
+        content: >-
+          I conduct thorough User Research by utilizing user interviews, card
+          sorting, affinity mapping, thematic analysis, quantitative analysis
+          and creating user research reports.
+      - title: AR Design
+        content: >-
+          Augmented Reality design for Instagram/Facebook, Snapchat and Web
+          experiences.
 template: advanced
 ---
