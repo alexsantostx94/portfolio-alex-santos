@@ -36,7 +36,7 @@ sections:
           Human-Computer Interaction design principles into all of my designs. I
           have a strong understanding of UI mobile patterns and incorporate that
           knowledge when building intuitive interfaces.
-      - title: AR Design
+      - title: Visual Design
         content: >-
           Experience executing creative visual designs. My process begins by
           gaining inspiration from a variety of sources and then using that
