@@ -8,9 +8,8 @@ sections:
     content: >-
       Cross-discipline designer with a keen focus on understanding the humans I
       am designing for and how the designs I make can improve their lived in
-      experience.  My design approach is always iterative and emphasizes problem
-      solving the pain points a user feels to create thoughtful user
-      experiences.
+      experience.  My iterative design approach emphasizes problem solving the
+      pain points a user feels to create thoughtful user experiences.
     actions:
       - label: Let's talk
         url: /contact
