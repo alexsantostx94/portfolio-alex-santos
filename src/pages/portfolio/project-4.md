@@ -1,5 +1,5 @@
 ---
-title: Urban Yerba
+title: Greyhound Rescue Austin
 subtitle: Package Design for Beverage Company
 date: '2019-02-26'
 thumb_image: images/uyCansMockup-small.png
