@@ -43,7 +43,8 @@ sections:
         content: >-
           I conduct thorough User Research by utilizing user interviews, card
           sorting, affinity mapping, thematic analysis, quantitative analysis
-          and creating user research reports.
+          and creating user research reports. I am a firm beliver that design
+          decisons need to be backed by research and not assumption.
       - title: Interaction Design
         content: 'From Augmented Reality designs to microinteractions '
 template: advanced
