@@ -36,10 +36,9 @@ sections:
           create. 
       - title: Visual Design
         content: >-
-          Experience executing creative visual designs. My process begins by
-          gaining inspiration from a variety of sources and then using that
-          inspiration to craft unique visuals that I iterate on until they have
-          the power to captivate audiences.
+          Experience executing compelling visual designs. I have a strong
+          understanding of UI mobile patterns and incorporate that knowledge
+          when building intuitive interfaces.
       - title: UX Research
         content: >-
           I conduct thorough User Research by utilizing user interviews, card
