@@ -31,9 +31,9 @@ sections:
     grid_items:
       - title: UX Design
         content: >-
-          User Experience and User Interface design. I incorporate
-          Human-centered design principles into all of the experiences I
-          create. 
+          I incorporate Human-centered design principles into all of the
+          experiences I create. I am an advocate for the users and I ensure that
+          key design decisons align with stakeholder goals.
       - title: Visual Design
         content: >-
           Experience executing compelling visual designs. I have a strong
