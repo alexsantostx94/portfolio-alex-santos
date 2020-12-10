@@ -32,9 +32,8 @@ sections:
       - title: UX Design
         content: >-
           User Experience and User Interface design. I incorporate
-          Human-centered design principles into all of the experiences I create.
-          I have a strong understanding of UI mobile patterns and incorporate
-          that knowledge when building intuitive interfaces.
+          Human-centered design principles into all of the experiences I
+          create. 
       - title: Visual Design
         content: >-
           Experience executing creative visual designs. My process begins by
