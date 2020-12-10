@@ -46,6 +46,11 @@ sections:
           and creating user research reports. I am a firm beliver that design
           decisons need to be backed by research and not assumption.
       - title: Interaction Design
-        content: 'From Augmented Reality designs to microinteractions '
+        content: >-
+          I am always looking for ways to improve a user's interaction with
+          products and designs. I have industry experience in designing
+          microinteractions that provide the subtlest amount of feedback and
+          concepting Augmented Reality experiences that transform the way we
+          interact with our physical world.
 template: advanced
 ---
