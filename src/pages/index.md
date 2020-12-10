@@ -29,7 +29,7 @@ sections:
     col_number: two
     is_numbered: false
     grid_items:
-      - title: UX Design
+      - title: UX & Product Design
         content: >-
           I incorporate Human-centered design principles into all of the
           experiences I create. I am an advocate for the users and I ensure that
