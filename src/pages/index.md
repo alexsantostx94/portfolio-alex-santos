@@ -29,26 +29,28 @@ sections:
     col_number: two
     is_numbered: false
     grid_items:
-      - title: UX Design
+      - title: UX & Product Design
         content: >-
-          User Experience and User Interface design. I incorporate
-          Human-centered design principles into all of the experiences I create.
-          I have a strong understanding of UI mobile patterns and incorporate
-          that knowledge when building intuitive interfaces.
+          I incorporate Human-centered design principles into all of the
+          experiences I create. I am an advocate for the users and I ensure that
+          key design decisons align with stakeholder goals.
       - title: Visual Design
         content: >-
-          Experience executing creative visual designs. My process begins by
-          gaining inspiration from a variety of sources and then using that
-          inspiration to craft unique visuals that I iterate on until they have
-          the power to captivate audiences.
+          Experience executing compelling visual designs. I have a strong
+          understanding of UI mobile patterns and incorporate that knowledge
+          when building intuitive interfaces.
       - title: UX Research
         content: >-
           I conduct thorough User Research by utilizing user interviews, card
           sorting, affinity mapping, thematic analysis, quantitative analysis
-          and creating user research reports.
-      - title: AR Design
+          and creating user research reports. I am a firm beliver that design
+          decisons need to be backed by research and not assumption.
+      - title: Interaction Design
         content: >-
-          Augmented Reality design for Instagram/Facebook, Snapchat and Web
-          experiences.
+          I am always looking for ways to improve a user's interaction with
+          products and designs. I have industry experience in designing
+          microinteractions that provide the subtlest amount of feedback and
+          concepting Augmented Reality experiences that transform the way we
+          interact with our physical world.
 template: advanced
 ---
