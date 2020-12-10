@@ -45,8 +45,6 @@ sections:
           sorting, affinity mapping, thematic analysis, quantitative analysis
           and creating user research reports.
       - title: Interaction Design
-        content: >-
-          Augmented Reality design for Instagram/Facebook, Snapchat and Web
-          experiences.
+        content: 'From Augmented Reality designs to microinteractions '
 template: advanced
 ---
