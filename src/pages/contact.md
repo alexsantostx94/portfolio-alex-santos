@@ -5,9 +5,9 @@ sections:
   - section_id: contact-form
     type: section_form
     content: >-
-      Hi there! I'm available to collaborate on designs and development in the
-      social product space. Please fill the contact form below or send me an
-      email at [alexs.tx94@gmail.com](mailto:alexs.tx94@gmail.com).
+      Hi there! I'm available to collaborate on designs and development. Please
+      fill the contact form below or send me an email at
+      [alexs.tx94@gmail.com](mailto:alexs.tx94@gmail.com).
     form_id: contactForm
     form_action: /thank-you
     form_fields:
@@ -28,7 +28,6 @@ sections:
         options:
           - UX Design
           - App Development
-          - Graphic Design
           - Web Development
       - input_type: textarea
         name: message
