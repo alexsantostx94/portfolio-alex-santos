@@ -1,5 +1,5 @@
 ---
-title: Nick of All Trades
+title: Rescue Vo
 subtitle: Web Design & Development
 date: '2018-01-15'
 thumb_image: images/caring-cedar.png
