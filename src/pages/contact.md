@@ -28,7 +28,6 @@ sections:
         options:
           - UX Design
           - App Development
-          - Graphic Design
           - Web Development
       - input_type: textarea
         name: message
