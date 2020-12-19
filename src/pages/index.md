@@ -41,10 +41,10 @@ sections:
           when building intuitive interfaces.
       - title: UX Research
         content: >-
-          I conduct thorough User Research by utilizing user interviews, card
-          sorting, affinity mapping, thematic analysis, quantitative analysis
-          and creating user research reports. I am a firm beliver that design
-          decisons need to be backed by research and not assumption.
+          I am a firm beliver that design decisons need to be backed by research
+          and not assumption. I conduct thorough User Research by utilizing user
+          interviews, card sorting, affinity mapping, thematic analysis,
+          quantitative analysis and creating user research reports.
       - title: Interaction Design
         content: >-
           I am always looking for ways to improve a user's interaction with
