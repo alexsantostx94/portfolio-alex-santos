@@ -36,9 +36,9 @@ sections:
           key design decisons align with stakeholder goals.
       - title: Visual Design
         content: >-
-          Experience executing compelling visual designs. I have a strong
-          understanding of UI mobile patterns and incorporate that knowledge
-          when building intuitive interfaces.
+          Through my experience executing compelling visual designs I have
+          developed a strong understanding of UI mobile patterns and incorporate
+          that knowledge when building intuitive interfaces.
       - title: User Research
         content: >-
           I am a firm beliver that design decisons need to be backed by research
