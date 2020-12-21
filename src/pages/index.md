@@ -33,7 +33,7 @@ sections:
         content: >-
           I incorporate Human-centered design principles into all of the
           experiences I create. I am an advocate for the users and ensure that
-          key design decisons align with stakeholder goals.
+          key design decisions align with stakeholder goals.
         actions: []
       - title: Visual Design
         content: >-
