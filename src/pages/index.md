@@ -32,13 +32,13 @@ sections:
       - title: UX & Product Design
         content: >-
           I incorporate Human-centered design principles into all of the
-          experiences I create. I am an advocate for the users and I ensure that
+          experiences I create. I am an advocate for the users and ensure that
           key design decisons align with stakeholder goals.
       - title: Visual Design
         content: >-
-          Experience executing compelling visual designs. I have a strong
-          understanding of UI mobile patterns and incorporate that knowledge
-          when building intuitive interfaces.
+          Through my experience executing compelling visual designs I have
+          developed a strong understanding of UI mobile patterns and incorporate
+          that knowledge when building intuitive interfaces.
       - title: User Research
         content: >-
           I am a firm beliver that design decisons need to be backed by research
@@ -47,10 +47,9 @@ sections:
           quantitative analysis and creating user research reports.
       - title: Interaction Design
         content: >-
-          I am always looking for ways to improve a user's interaction with
-          products and designs. I have industry experience in designing
-          microinteractions that provide the subtlest amount of feedback and
-          concepting Augmented Reality experiences that transform the way we
-          interact with our physical world.
+          My focus is to improve the user's interaction with each product and
+          design. I  My industry experience ranges from designing
+          microinteractions to concepting Augmented Reality experiences that
+          transform the way we interact with our physical world.
 template: advanced
 ---
