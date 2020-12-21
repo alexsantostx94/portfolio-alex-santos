@@ -34,6 +34,7 @@ sections:
           I incorporate Human-centered design principles into all of the
           experiences I create. I am an advocate for the users and ensure that
           key design decisons align with stakeholder goals.
+        actions: []
       - title: Visual Design
         content: >-
           Through my experience executing compelling visual designs I have
@@ -41,10 +42,10 @@ sections:
           that knowledge when building intuitive interfaces.
       - title: User Research
         content: >-
-          I am a firm beliver that design decisons need to be backed by research
-          and not assumption. I conduct thorough User Research by utilizing user
-          interviews, card sorting, affinity mapping, thematic analysis,
-          quantitative analysis and creating user research reports.
+          I am a firm believer that design decisons need to be backed by
+          research and not assumption. I conduct thorough User Research by
+          utilizing user interviews, card sorting, affinity mapping, thematic
+          analysis, quantitative analysis and creating user research reports.
       - title: Interaction Design
         content: >-
           My focus is to improve the user's interaction with each design.  My
