@@ -34,6 +34,13 @@ sections:
           I incorporate Human-centered design principles into all of the
           experiences I create. I am an advocate for the users and ensure that
           key design decisons align with stakeholder goals.
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            icon_class: lorem-ipsum
+            new_window: false
+            type: action
       - title: Visual Design
         content: >-
           Through my experience executing compelling visual designs I have
