@@ -47,9 +47,9 @@ sections:
           quantitative analysis and creating user research reports.
       - title: Interaction Design
         content: >-
-          My focus is to improve the user's interaction with each product and
-          design. I  My industry experience ranges from designing
-          microinteractions to concepting Augmented Reality experiences that
-          transform the way we interact with our physical world.
+          My focus is to improve the user's interaction with each design.  My
+          industry experience ranges from designing microinteractions to
+          concepting Augmented Reality experiences that transform the way we
+          interact with our physical world.
 template: advanced
 ---
