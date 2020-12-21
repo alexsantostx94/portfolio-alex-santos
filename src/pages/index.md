@@ -39,7 +39,7 @@ sections:
           Experience executing compelling visual designs. I have a strong
           understanding of UI mobile patterns and incorporate that knowledge
           when building intuitive interfaces.
-      - title: UX Research
+      - title: User Research
         content: >-
           I am a firm beliver that design decisons need to be backed by research
           and not assumption. I conduct thorough User Research by utilizing user
