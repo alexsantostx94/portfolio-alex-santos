@@ -42,7 +42,7 @@ sections:
           that knowledge when building intuitive interfaces.
       - title: User Research
         content: >-
-          I am a firm believer that design decisons need to be backed by
+          I am a firm believer that design decisions need to be backed by
           research and not assumption. I conduct thorough User Research by
           utilizing user interviews, card sorting, affinity mapping, thematic
           analysis, quantitative analysis and creating user research reports.
