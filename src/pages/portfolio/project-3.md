@@ -9,5 +9,7 @@ template: project
 ###### Team: Sr. UX Designer, Visual Designer, Copywriter, mobile UI Designer
 ###### My role: mobile UI Designer
 
-## Presentation
-This project requires a password
+## Case Study
+Password available upon request
+
+[Link to password secured Case Study](https://crypto.figmaticapp.com/share/kj8ih2iy74849/YYxjKrqk3LXpPtOvInP6)
