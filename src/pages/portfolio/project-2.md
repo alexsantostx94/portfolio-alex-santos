@@ -7,8 +7,9 @@ image: images/stv-full.png
 template: project
 ---
 ###### Disclaimer! *This is a concept design. I was not commissioned by Smith Optics to create this*.
+###### Team: Just me
 
-###### role: Sole Designer
+###### My role: UX Designer, Visual Designer
 
 
 ## Introduction
