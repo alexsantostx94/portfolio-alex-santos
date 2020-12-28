@@ -51,7 +51,7 @@ Denmark has proven that investing in a chatbot system can make for a more effici
 ## Research & Discovery
 #### Discovery
 ![Mind Map](/images/Mind Map.png)
-##### List of All
+#### List of All
 |Intents                |Utterances                          |Entities                         |
 |----------------|-------------------------------|-----------------------------|
 |Activate 911 chatbot | `'I need an ambulance'`  | Trauma Call
@@ -59,11 +59,11 @@ Get emergency help fast and accurately|`'I need the police'`            |Emergen
 |Get help about what to do in an emergency           |`'I need the fire department'`             |Crime            |
 |          |`'I don't know what to do'` |Fire/Rescue|
 
-##### Findings
+#### Findings
 
-##### Research Insights
+#### Research Insights
 
-##### Core User Needs
+#### Core User Needs
 |Efficiency                |Reassurance                          |Competency                         |
 |----------------|-------------------------------|-----------------------------|
 |Being able to know that the 911 system will dispatch emergency response units to the scene of an emergency with accuracy and speed. | Reassurance that help will arrive to the scene and that the caller will be at ease when activating the 911 system. | Taking comfort in knowing that this emergency chatbot is well versed in emergency protocols and can provide guidance to the user when they need it the most.
