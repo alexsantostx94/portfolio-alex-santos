@@ -1,5 +1,5 @@
 ---
-title: Case Study | Smith TV
+title: Smith TV | Case Study
 subtitle: UX and Visual design for streaming service app
 date: '2019-04-30'
 thumb_image: images/stv-thumb.png
