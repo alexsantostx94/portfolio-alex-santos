@@ -27,10 +27,8 @@ Activating the current 911 system in the United States is an **antiquated** proc
 
 
 #### Denmark's 911 System
-*Coronafiles: Chatbots take strain off Denmark’s emergency helplines*
-###### **“We put more staff on but we couldn’t keep up with the volume. Our biggest worry was that people with other diseases weren’t able to get through.”**
-
-###### “It worked well enough that the chatbot service was rolled out beyond just the initial Copenhagen area to all of Denmark.”
+*Coronafiles: Chatbots take strain off Denmark’s emergency helplines* 
+###### “We put more staff on but we couldn’t keep up with the volume. Our biggest worry was that people with other diseases weren’t able to get through. It worked well enough that the chatbot service was rolled out beyond just the initial Copenhagen area to all of Denmark.”
  [-Sifted EU Article](https://sifted.eu/articles/coronafiles-chatbots-helplines/)
 > Denmark has proven that investing in a chatbot system can make for a more efficient Emergency response system.
 
