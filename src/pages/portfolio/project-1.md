@@ -40,9 +40,9 @@ Denmark has proven that investing in a chatbot system can make for a more effici
 #### Product Goals
 **1. Improve response times**
 
-**2.Decrease the strain on 911 operators**
+**2. Decrease the strain on 911 operators**
 
-**3.Decrease cognitive load of the caller**
+**3. Decrease cognitive load of the caller**
 
 ![Image of Text: Design a chatbot that leverages the power of AI to quicken the response times of emergency services and ultimately save lives and money.](/images/ProjectObjective.png)
 
@@ -55,8 +55,6 @@ Denmark has proven that investing in a chatbot system can make for a more effici
 get emergency help fast and accurately|`'Isn't this fun?'`            |'Isn't this fun?'            |
 |get help about what to do in an emergency           |`"Isn't this fun?"`            |"Isn't this fun?"            |
 |Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
-
-
 
 ## Design & Prototype
 
