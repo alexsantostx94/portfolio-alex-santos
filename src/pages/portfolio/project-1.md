@@ -75,4 +75,4 @@ I designed a product that stays true to Smith’s brand. A fully-fledged video s
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FU2f35cFn8F9qHC1BJu3zTC%2FSmith-TV%3Fnode-id%3D157%253A158%26viewport%3D46%252C-972%252C0.19940772652626038%26scaling%3Dscale-down&chrome=DOCUMENTATION" allowfullscreen></iframe>
 
 ## Take Away
-Designing a video streaming service on multiple platforms that allows users to immerse themselves in their favorite content was a project I really enjoyed. I especially enjoyed using an existing brand's identity and values to guide my creative process. Thank you for reading.
+I really enjoyed designing this CUI chatbot experience! Designing for emerging technologies is without a doubt challenging, but I am glad I could apply my knowledge of user interface design, interaction design and ux writing.
