@@ -35,7 +35,7 @@ I designed a product that stays true to Smith’s brand. A fully-fledged video s
 #### Ideation & Sketches
 ![sketches](/images/terrific-sparrow.png)
 
->I started out my ideation with crazy 8's and a few initial directions. I settled on my first direction and continued my design process.
+>I started out my ideation with crazy 8's and a few initial directions. I iterated from these directions and jumped straight into the design process.
 
 #### Task Flow
 ![task flow](/images/cool-sunflower.png)
