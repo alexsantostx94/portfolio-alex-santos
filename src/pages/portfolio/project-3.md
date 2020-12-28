@@ -2,7 +2,7 @@
 title: Air Force | Case Study
 subtitle: Mobile UI Design & Prototype
 date: '2019-04-08'
-thumb_image: images/panoramic-rosemary.png
+thumb_image: images/terrific-plankton.png
 image: images/Frame1-af.png
 template: project
 ---
