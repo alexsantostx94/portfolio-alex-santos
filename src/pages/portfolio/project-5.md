@@ -1,5 +1,5 @@
 ---
-title: Urban Yerba
+title: Urban Yerba | Brand
 subtitle: Package Design & Brand Identity for Beverage Company
 date: '2019-01-05'
 thumb_image: images/uyCansMockup-small.png
