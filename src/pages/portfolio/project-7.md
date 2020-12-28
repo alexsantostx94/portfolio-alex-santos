@@ -1,6 +1,6 @@
 ---
 title: Healthcare App
-subtitle: 'Ux '
+subtitle: Prototype
 date: '2018-01-15'
 thumb_image: images/user-testing.png
 image: images/project-objective.png
