@@ -1,5 +1,5 @@
 ---
-title: Rescue Vox | Chatbot
+title: Healthcare App
 subtitle: Conversational User Interface Design
 date: '2018-01-15'
 thumb_image: images/user-testing.png
