@@ -61,34 +61,8 @@ According to [The Nielsen Total Audience Report](https://www.nielsen.com/us/en/i
 >I wanted the user's flow to be very simple and limit the choices given when they first open the app. A study from [Netflix](https://dl.acm.org/doi/pdf/10.1145/2843948) showed that a 80% of views come from their recommended algorithm. I wanted to apply that same concept for this app and greet the user with a simple choice based on how they are feeling, Thrill or Chill, and give them the option to scroll down for a Recommended list. 
 
 
-#### Low Fidelity Mockup
-![Mobile](/images/magical-sparrow.png)
+#### Prototype
 
->I started with a mobile first design process and scaled that up to fit a TV based app.
-
-![TV](/images/panoramic-daffodil.png)
-
-#### Component Library
-
-> I wanted to create a component based design system that is ready for scalability.
-
-
-![component library](/images/marvelous-primrose.png)
-
-#### High Fidelity Mockup
-![Mobile](/images/groovy-aluminum.png)
-
->I used a toggle at the top of the screen to give the user the ability to quickly switch back and forth from the two main categories of the app, Thrill or Chill.
-
-![TV](/images/groovy-thyme.png)
-
-## Prototypes
-###### TV
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FU2f35cFn8F9qHC1BJu3zTC%2FSmith-TV%3Fnode-id%3D125%253A167%26viewport%3D470%252C44%252C0.04372768849134445%26scaling%3Dscale-down&chrome=DOCUMENTATION" allowfullscreen></iframe>
-
-###### Mobile
-
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FU2f35cFn8F9qHC1BJu3zTC%2FSmith-TV%3Fnode-id%3D157%253A158%26viewport%3D46%252C-972%252C0.19940772652626038%26scaling%3Dscale-down&chrome=DOCUMENTATION" allowfullscreen></iframe>
 
 ## Take Away
 I really enjoyed designing this CUI chatbot experience! Designing for emerging technologies is without a doubt challenging, but I am glad I could apply my knowledge of user interface design, interaction design and ux writing.
