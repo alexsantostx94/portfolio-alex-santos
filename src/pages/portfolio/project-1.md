@@ -6,9 +6,8 @@ thumb_image: images/rvox-thumb.png
 image: images/rvox-full.png
 template: project
 ---
-Team: Just me
-
-My Role: CUI Design, UX Writing, Product Design
+###### Team: Just me
+###### My Role: CUI Design, UX Writing, Product Design
 
 ## Introduction
 Smith Optics has over 50 years of innovation and authenticity in optical wear. Smith produces and sells eyewear from ski goggles to sunglasses. They also make helmets that exceed current safety standards. Smith sponsors athletes in snow sports, fishing, surfing and cycling.
