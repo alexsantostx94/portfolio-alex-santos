@@ -79,7 +79,7 @@ Get emergency help fast and accurately|`'I need the police'`            |Emergen
 ![Flow2](/images/NOT-BREATHING.png)
 ![Flow3](/images/Mistake-.png)
 
->I wanted the user's flow to be very simple and limit the choices given when they first open the app. 
+>I wanted to ensure that Rescue Vox accounts for 
 
 
 #### Prototype
