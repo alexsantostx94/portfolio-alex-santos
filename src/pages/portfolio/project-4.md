@@ -1,5 +1,5 @@
 ---
-title: GSD&M
+title: 'GSD&M | UX Research, UX Architecture'
 subtitle: 'UX Research, Information Architecture'
 date: '2019-02-26'
 thumb_image: images/gsdm-thumb.png
