@@ -2,7 +2,7 @@
 title: Rescue Vox | Chatbot
 subtitle: Conversational User Interface Design
 date: '2018-01-15'
-thumb_image: images/-rvx.png
+thumb_image: images/user-testing.png
 image: images/magenta-basil.png
 template: project
 excerpt: Case Study Deck
