@@ -49,19 +49,12 @@ Denmark has proven that investing in a chatbot system can make for a more effici
 ## Research & Discovery
 According to [The Nielsen Total Audience Report](https://www.nielsen.com/us/en/insights/article/2020/the-nielsen-total-audience-report-hub/), in the second quarter of 2020 streaming video consumption grew, accounting for 25% of total television viewing minutes, up from 19% in the fourth quarter of 2019.  Currently in the TV streaming app market, there are very few brands similar to Smith that have launched streaming services. The most notable brand with a similar style that has launched a streaming service is Red Bull. Red Bull’s TV platform is geared more towards adventure. With sports television apps making up [24%](https://www.nielsen.com/us/en/insights/article/2020/the-nielsen-total-audience-report-hub/) of views, there is a viable market for an Outdoor Sports app that appeals to the user's itching to get back outside while we are still in the midst of a global pandemic.
 
-## Solution
-
-I designed a product that stays true to Smith’s brand. A fully-fledged video service available on multiple platforms. A product with a minimal interface that allows users to discover thrilling videos like downhill skiing or something to wind down like slow tv.
-## Users & Audience
-![Empathy Map & User Persona](/images/green-zebra.png)
-
->I wanted my user's persona to embody someone that is tired of Netflix and wants to feel like he is on the slopes or in the backcountry. He enjoys watching sports documentaries and wants to follow his favorite athletes.
 
 
 ## Design & Prototype
 
 
-#### Task Flow
+#### Conversational Flows
 ![task flow](/images/cool-sunflower.png)
 
 >I wanted the user's flow to be very simple and limit the choices given when they first open the app. A study from [Netflix](https://dl.acm.org/doi/pdf/10.1145/2843948) showed that a 80% of views come from their recommended algorithm. I wanted to apply that same concept for this app and greet the user with a simple choice based on how they are feeling, Thrill or Chill, and give them the option to scroll down for a Recommended list. 
