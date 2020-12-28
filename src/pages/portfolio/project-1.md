@@ -2,7 +2,7 @@
 title: Case Study | Smith TV
 subtitle: UX design for streaming service app
 date: '2019-05-10'
-thumb_image: images/terrific-mint.png
+thumb_image: images/rvox-thumb.png
 image: images/important-parsley.png
 template: project
 ---
