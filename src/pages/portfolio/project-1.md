@@ -17,7 +17,7 @@ Requesting Emergency Services in a time of crisis should be a swift experience t
 
 Activating the current 911 system in the United States is an **antiquated** process that requires a caller to dial 3 numbers and press call. That requires the user to conduct 4 taps and wait for a 911 operator to pick up the phone. The caller is then asked “Do you need Police, Fire or EMS?” requiring the user to **think** on the spot of what resources they need. The operator then transfers the line to the caller’s selected need and the user has to wait until their call is picked up and every **second** that the user is waiting could be optimized to have emergency crews dispatched to the scene faster.
 
-#### Competitive Analysis
+#### Competitive Landscape
 ##### America's 911 System [Article](https://www.seattletimes.com/nation-world/nation/pandemic-pushing-americas-911-system-to-breaking-point-ambulance-operators-say/)
 “Pandemic pushing America’s 911 system to breaking point”
 “The strain could result in longer wait times and some providers going out of business, ambulance operators said. Ambulance providers are struggling to meet surging demand even while grappling with increased costs of personal protective equipment, overtime, staff shortages as workers fall ill and decreases in the type of emergency calls that are reimbursed.” 
