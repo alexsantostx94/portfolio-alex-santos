@@ -3,7 +3,7 @@ title: Air Force | Case Study
 subtitle: Mobile UI Design & Prototype
 date: '2019-04-08'
 thumb_image: images/af-thumb1.png
-image: images/full-af.png
+image: images/full-af1.png
 template: project
 ---
 ###### Team: Sr. UX Designer, Visual Designer, Copywriter, mobile UI Designer
