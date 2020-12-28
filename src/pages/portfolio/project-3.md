@@ -1,5 +1,5 @@
 ---
-title: Air Force Science
+title: Case Study | Air Force
 subtitle: Mobile UI Design & Prototype
 date: '2019-04-08'
 thumb_image: images/panoramic-rosemary.png
