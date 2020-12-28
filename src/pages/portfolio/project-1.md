@@ -1,5 +1,5 @@
 ---
-title: Case Study | Smith TV
+title: Case Study | Rescue Vox
 subtitle: UX design for streaming service app
 date: '2019-05-10'
 thumb_image: images/rvox-thumb.png
