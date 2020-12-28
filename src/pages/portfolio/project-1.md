@@ -83,9 +83,9 @@ Get emergency help fast and accurately|`'I need the police'`            |Emergen
 
 
 #### Conversational Flows
-![Flow1](/images/YES-BREATHING.png)
-![Flow2](/images/NOT-BREATHING.png)
-![Flow3](/images/Mistake-.png)
+![Flow1 - Breathing? Yes](/images/YES-BREATHING.png)
+![Flow2 - Breathing? No](/images/NOT-BREATHING.png)
+![Flow3 - Mistake](/images/Mistake-.png)
 
 >I wanted to ensure that the Rescue Vox chatbot accounts for various paths that the user maight encounter.
 
