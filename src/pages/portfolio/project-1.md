@@ -32,12 +32,8 @@ I designed a product that stays true to Smith’s brand. A fully-fledged video s
 >I wanted my user's persona to embody someone that is tired of Netflix and wants to feel like he is on the slopes or in the backcountry. He enjoys watching sports documentaries and wants to follow his favorite athletes.
 
 
-## Design Process
+## Design & Prototype
 
-#### Ideation & Sketches
-![sketches](/images/terrific-sparrow.png)
-
->I started out my ideation with crazy 8's and a few initial directions. I settled on my first direction and continued my design process.
 
 #### Task Flow
 ![task flow](/images/cool-sunflower.png)
