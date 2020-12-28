@@ -8,4 +8,4 @@ template: project
 excerpt: ''
 ---
 ## Prototype
-[Bot Society](https://app.botsociety.io/2.0/designs/5fd056d41094cb4bbd86535d?m=interactive)
+[InVision Prototype](https://projects.invisionapp.com/prototype/Local-EMS-ck3kugun2000pdp01gaeowtvp/play/e40c0ec5)
