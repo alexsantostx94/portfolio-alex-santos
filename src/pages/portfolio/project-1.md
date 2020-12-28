@@ -65,7 +65,7 @@ Get emergency help fast and accurately|`'I need the police'`            |Emergen
 #### Research Insights
 - **Improve tone urgency** - Part of the chatbot’s tone was too conversational.
 - **Super easy** - Liked that there were yes and no options.
-- **Quick and intuitive**  -Liked that there were few questions that speeds up the process of getting help to the scene.
+- **Quick and intuitive**  - Liked that there were few questions that speeds up the process of getting help to the scene.
 - **Provide eta feedback** - Give the user feedback on how long it will take the emergency crews to respond.
 - **Describe what’s next** - Provide the user with what they should do next.
 - **Needs voice feature** - Would be nice to activate 911 by speaking and having the bot respond quickly. *This is a future goal to work towards.*
