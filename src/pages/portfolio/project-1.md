@@ -1,6 +1,6 @@
 ---
 title: Case Study | Rescue Vox
-subtitle: UX design for streaming service app
+subtitle: 'Product Design, Conversational User Interface'
 date: '2019-05-10'
 thumb_image: images/rvox-thumb.png
 image: images/rvox-full.png
