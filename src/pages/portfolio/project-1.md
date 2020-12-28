@@ -59,6 +59,10 @@ Get emergency help fast and accurately|`'I need the police'`            |Emergen
 |Get help about what to do in an emergency           |`'I need the fire department'`             |Crime            |
 |          |`'I don't know what to do'` |Fire/Rescue|
 
+##### Findings
+
+##### Research Insights
+
 ##### Core User Needs
 |Efficiency                |Reassurance                          |Competency                         |
 |----------------|-------------------------------|-----------------------------|
