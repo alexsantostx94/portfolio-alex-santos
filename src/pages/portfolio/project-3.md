@@ -6,8 +6,8 @@ thumb_image: images/panoramic-rosemary.png
 image: images/nearest-base_1.gif
 template: project
 ---
-###### Team: Sr. UX Designer, Visual Designer, Copywriter, UI Designer
-###### My role: UI Designer
+###### Team: Sr. UX Designer, Visual Designer, Copywriter, mobile UI Designer
+###### My role: mobile UI Designer
 
 ## Presentation
 This project requires a password
