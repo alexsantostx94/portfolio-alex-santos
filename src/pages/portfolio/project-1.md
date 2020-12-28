@@ -39,11 +39,11 @@ Denmark has proven that investing in a chatbot system can make for a more effici
 ##### Design a solution that **improves** the current system of dialing 911 and speaking to an operator.
 
 #### Product Goals
-1. Improve response times
+**1. Improve response times**
 
-2.Decrease the strain on 911 operators
+**2.Decrease the strain on 911 operators**
 
-3.Decrease mental load of the caller
+**3.Decrease mental load of the caller**
 
 ![Image of Text: Design a chatbot that leverages the power of AI to quicken the response times of emergency services and ultimately save lives and money.](/images/ProjectObjective.png)
 
