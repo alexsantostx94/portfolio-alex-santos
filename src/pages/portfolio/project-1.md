@@ -1,5 +1,5 @@
 ---
-title: Case Study | Rescue Vox
+title: Rescue Vox | Case Study
 subtitle: 'Product Design, Conversational User Interface'
 date: '2019-05-10'
 thumb_image: images/knowledgeable-plankton.png
