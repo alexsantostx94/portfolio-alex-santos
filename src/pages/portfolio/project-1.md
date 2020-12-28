@@ -46,7 +46,7 @@ Denmark has proven that investing in a chatbot system can make for a more effici
 
 #### Opportunites
 
-![Project Objective: Design a chatbot that leverages the power of AI to quicken the response times of emergency services and ultimately save lives and money.](/images/ProjectObjective.png)
+![Project Objective: Design a chatbot (CUI Design) that leverages the power of AI to quicken the response times of emergency services and ultimately save lives and money.](/images/project-objective.png)
 
 ## Research & Discovery
 #### Discovery
