@@ -1,5 +1,5 @@
 ---
-title: Case Study |
+title: Case Study | Smith TV
 subtitle: UX Design and Prototype
 date: '2019-04-30'
 thumb_image: images/fabulous-hickory.png
