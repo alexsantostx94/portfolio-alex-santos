@@ -44,7 +44,7 @@ Denmark has proven that investing in a chatbot system can make for a more effici
 
 **3. Decrease cognitive load of the caller**
 
-#### Objective
+#### Opportunites
 
 ![Project Objective: Design a chatbot that leverages the power of AI to quicken the response times of emergency services and ultimately save lives and money.](/images/ProjectObjective.png)
 
