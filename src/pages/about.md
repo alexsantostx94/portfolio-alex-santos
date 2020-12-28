@@ -1,6 +1,6 @@
 ---
-title: About Us
-subtitle: This is a short page about us and our work.
+title: About Me
+subtitle: My story
 image: images/about.jpg
 template: page
 ---

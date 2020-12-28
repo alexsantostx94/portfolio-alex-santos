@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: Experience Designer
+    title: Designer
     content: >-
       Cross-discipline designer with a keen focus on understanding the humans I
       am designing for and how the designs I make can improve their lived in
@@ -42,7 +42,7 @@ sections:
           that knowledge when building intuitive interfaces.
       - title: UX Research
         content: >-
-          I am a firm believer that design decisions need to be backed by
+          I am a firm believer that design decisons need to be backed by
           research and not assumption. I conduct thorough User Research by
           utilizing user interviews, card sorting, affinity mapping, thematic
           analysis, quantitative analysis and creating user research reports.

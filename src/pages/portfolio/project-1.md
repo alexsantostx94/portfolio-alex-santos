@@ -1,74 +1,97 @@
 ---
-title: Case Study | Smith TV
-subtitle: UX design for streaming service app
+title: Rescue Vox | Case Study
+subtitle: 'Product Design, Conversational User Interface'
 date: '2019-05-10'
-thumb_image: images/terrific-mint.png
-image: images/important-parsley.png
+thumb_image: images/knowledgeable-plankton.png
+image: images/green-avocado.png
 template: project
 ---
-###### Disclaimer! *This is a concept design. I was not commissioned by Smith Optics to create this*.
+###### **Team:** Just me
+###### **My Role:** CUI Design, UX Writing, Product Design
+
+## The Story
+Requesting Emergency Services in a time of crisis should be a swift experience that leaves no opportunity for delay, as every second truly does count. I wanted to design a Conversational User Interface that effectively communicates to users on how to activate the 911 emergency response system. This concept design utilizes an AI chatbot to understand why the user is requesting emergency services and sends the appropriate emergency response resources to the scene of the emergency.
+
+## Problems & Opportunites
+#### Key Problem
+
+Activating the current 911 system in the United States is an **antiquated** process that requires a caller to dial 3 numbers and press call. That requires the user to conduct 4 taps and wait for a 911 operator to pick up the phone. The caller is then asked “Do you need Police, Fire or EMS?” requiring the user to **think** on the spot of what resources they need. The operator then transfers the line to the caller’s selected need and the user has to wait until their call is picked up and every **second** that the user is waiting could be optimized to have emergency crews dispatched to the scene faster.
+
+#### Competitive Landscape
+##### America's 911 System [Article](https://www.seattletimes.com/nation-world/nation/pandemic-pushing-americas-911-system-to-breaking-point-ambulance-operators-say/)
+“Pandemic pushing America’s 911 system to breaking point”
+“The strain could result in longer wait times and some providers going out of business, ambulance operators said. Ambulance providers are struggling to meet surging demand even while grappling with increased costs of personal protective equipment, overtime, staff shortages as workers fall ill and decreases in the type of emergency calls that are reimbursed.” 
+
+How can we alleviate the strain that this pandemic has put on our 911 system?
 
 
-## Introduction
-Smith Optics has over 50 years of innovation and authenticity in optical wear. Smith produces and sells eyewear from ski goggles to sunglasses. They also make helmets that exceed current safety standards. Smith sponsors athletes in snow sports, fishing, surfing and cycling.
+##### Denmark's 911 System [Article](https://sifted.eu/articles/coronafiles-chatbots-helplines/)
+“We put more staff on but we couldn’t keep up with the volume. Our biggest worry was that people with other diseases weren’t able to get through.”
 
-## Challenge
-
-Smith has decided to create a streaming video service to share their content with the world. They have asked for visual designs for a remote-control-based TV app, and a mobile app.
-
-## Research
-According to [The Nielsen Total Audience Report](https://www.nielsen.com/us/en/insights/article/2020/the-nielsen-total-audience-report-hub/), in the second quarter of 2020 streaming video consumption grew, accounting for 25% of total television viewing minutes, up from 19% in the fourth quarter of 2019.  Currently in the TV streaming app market, there are very few brands similar to Smith that have launched streaming services. The most notable brand with a similar style that has launched a streaming service is Red Bull. Red Bull’s TV platform is geared more towards adventure. With sports television apps making up [24%](https://www.nielsen.com/us/en/insights/article/2020/the-nielsen-total-audience-report-hub/) of views, there is a viable market for an Outdoor Sports app that appeals to the user's itching to get back outside while we are still in the midst of a global pandemic.
-
-## Solution
-
-I designed a product that stays true to Smith’s brand. A fully-fledged video service available on multiple platforms. A product with a minimal interface that allows users to discover thrilling videos like downhill skiing or something to wind down like slow tv.
-## Users & Audience
-![Empathy Map & User Persona](/images/green-zebra.png)
-
->I wanted my user's persona to embody someone that is tired of Netflix and wants to feel like he is on the slopes or in the backcountry. He enjoys watching sports documentaries and wants to follow his favorite athletes.
+“It worked well enough that the chatbot service was rolled out beyond just the initial Copenhagen area to all of Denmark.”
+Denmark has proven that investing in a chatbot system can make for a more efficient Emergency response system.
 
 
-## Design Process
-
-#### Ideation & Sketches
-![sketches](/images/terrific-sparrow.png)
-
->I started out my ideation with crazy 8's and a few initial directions. I settled on my first direction and continued my design process.
-
-#### Task Flow
-![task flow](/images/cool-sunflower.png)
-
->I wanted the user's flow to be very simple and limit the choices given when they first open the app. A study from [Netflix](https://dl.acm.org/doi/pdf/10.1145/2843948) showed that a 80% of views come from their recommended algorithm. I wanted to apply that same concept for this app and greet the user with a simple choice based on how they are feeling, Thrill or Chill, and give them the option to scroll down for a Recommended list. 
 
 
-#### Low Fidelity Mockup
-![Mobile](/images/magical-sparrow.png)
+#### HMW
+![How Might We... Design a solution that improves the current system of dialing 911 and speaking to an operator.](/images/HMW.png)
 
->I started with a mobile first design process and scaled that up to fit a TV based app.
+#### Product Goals
+**1. Improve emergency response times**
 
-![TV](/images/panoramic-daffodil.png)
+**2. Decrease the strain on 911 operators**
 
-#### Component Library
+**3. Decrease cognitive load of the caller**
 
-> I wanted to create a component based design system that is ready for scalability.
+#### Opportunites
+
+![Project Objective: Design a chatbot (CUI Design) that leverages the power of AI to quicken the response times of emergency services and ultimately save lives and money.](/images/project-objective.png)
+
+## Research & Discovery
+#### Discovery
+![Mind Map](/images/mind-map.png)
+#### List of All
+|Intents                |Utterances                          |Entities                         |
+|----------------|-------------------------------|-----------------------------|
+|Activate 911 chatbot | `'I need an ambulance'`  | Trauma Call
+Get emergency help fast and accurately|`'I need the police'`            |Emergency Medical Call            |
+|Get help about what to do in an emergency           |`'I need the fire department'`             |Crime            |
+|          |`'I don't know what to do'` |Fire/Rescue|
+
+#### Findings
+![User Testing: Tester #1 - This user suggested improving the urgency of the conversational tone. This user stated that interacting with the prototype was too slow. They also mentioned that it would be helpful to provide an intro to explain “what’s next” when the bot describes what steps to take after the user has clicked “no” to the question, “Are they breathing?”. Tester#2 - This user tested the chat bot design and said “my overall experience was that it was super easy, quick and intuitive. I liked that each question only had yes or no options — nothing more to think about.”. This user suggested providing feedback on when the ambulance and rescue team will arrive. They stated “I think that would be a feature people would greatly appreciate and help them stay calmer.” Tester #3 - This tester stated that it would be nice to activate the 911 Rescue Vox by speaking to it similar to an Amazon Alexa device or a Google Home device. They mentioned that this would help people that are visually impaired operate 911 even faster in the event of an emergency.](/images/user-testing.png)
+
+#### Research Insights
+- **Improve tone urgency** - Part of the chatbot’s tone was too conversational.
+- **Super easy** - Liked that there were yes and no options.
+- **Quick and intuitive**  - Liked that there were few questions that speeds up the process of getting help to the scene.
+- **Provide eta feedback** - Give the user feedback on how long it will take the emergency crews to respond.
+- **Describe what’s next** - Provide the user with what they should do next.
+- **Needs voice feature** - Would be nice to activate 911 by speaking and having the bot respond quickly. *This is a future goal to work towards.*
 
 
-![component library](/images/marvelous-primrose.png)
+#### Core User Needs
+|Efficiency                |Reassurance                          |Competency                         |
+|----------------|-------------------------------|-----------------------------|
+|Being able to know that the 911 system will dispatch emergency response units to the scene of an emergency with accuracy and speed. |Reassurance that help will arrive to the scene and that the caller will be at ease when activating the 911 system. |Taking comfort in knowing that this emergency chatbot is well versed in emergency protocols and can provide guidance to the user when they need it the most.
 
-#### High Fidelity Mockup
-![Mobile](/images/groovy-aluminum.png)
+#### Key Decision
+![VUI or Chatbot? When presented with the challenge of improving the 911 system by utilizing Artificial Intelligence, I found that ultimately both a VUI AND Chatbot would be necessary to meet the objectives of this project. I focused my scope on the Chatbot feature for this design as I felt it would be much easier to visually show how this product would work from a user interface.](/images/decisions-made.png)
 
->I used a toggle at the top of the screen to give the user the ability to quickly switch back and forth from the two main categories of the app, Thrill or Chill.
+## Design & Prototype
 
-![TV](/images/groovy-thyme.png)
 
-## Prototypes
-###### TV
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FU2f35cFn8F9qHC1BJu3zTC%2FSmith-TV%3Fnode-id%3D125%253A167%26viewport%3D470%252C44%252C0.04372768849134445%26scaling%3Dscale-down&chrome=DOCUMENTATION" allowfullscreen></iframe>
+#### Conversational Flows
+![Flow1](/images/YES-BREATHING.png)
+![Flow2](/images/NOT-BREATHING.png)
+[![Flow3](/images/Mistake-.png)](/images/Mistake-.png)
 
-###### Mobile
+>I wanted to ensure that Rescue Vox accounts for 
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FU2f35cFn8F9qHC1BJu3zTC%2FSmith-TV%3Fnode-id%3D157%253A158%26viewport%3D46%252C-972%252C0.19940772652626038%26scaling%3Dscale-down&chrome=DOCUMENTATION" allowfullscreen></iframe>
+
+#### Prototype
+
 
 ## Take Away
-Designing a video streaming service on multiple platforms that allows users to immerse themselves in their favorite content was a project I really enjoyed. I especially enjoyed using an existing brand's identity and values to guide my creative process. Thank you for reading.
+I really enjoyed designing this CUI chatbot experience! Designing for emerging technologies is without a doubt challenging, but I am glad I could apply my knowledge of user interface design, interaction design and ux writing to this product.
