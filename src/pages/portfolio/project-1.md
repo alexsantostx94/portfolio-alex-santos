@@ -85,7 +85,7 @@ Get emergency help fast and accurately|`'I need the police'`            |Emergen
 #### Conversational Flows
 ![Flow1](/images/YES-BREATHING.png)
 ![Flow2](/images/NOT-BREATHING.png)
-[![Flow3](/images/Mistake-.png)](/images/Mistake-.png)
+![Flow3](/images/Mistake-.png)(/images/Mistake-.png)
 
 >I wanted to ensure that Rescue Vox accounts for 
 
