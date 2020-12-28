@@ -35,16 +35,18 @@ Denmark has proven that investing in a chatbot system can make for a more effici
 
 
 #### HMW
-![Image of Text: Design a solution that improves the current system of dialing 911 and speaking to an operator.](/images/HMW.png)
+!How Might We... Design a solution that improves the current system of dialing 911 and speaking to an operator.](/images/HMW.png)
 
 #### Product Goals
-**1. Improve response times**
+**1. Improve emergency response times**
 
 **2. Decrease the strain on 911 operators**
 
 **3. Decrease cognitive load of the caller**
 
-![Image of Text: Design a chatbot that leverages the power of AI to quicken the response times of emergency services and ultimately save lives and money.](/images/ProjectObjective.png)
+#### Objective
+
+![Project Objective: Design a chatbot that leverages the power of AI to quicken the response times of emergency services and ultimately save lives and money.](/images/ProjectObjective.png)
 
 ## Research & Discovery
 #### Discovery
