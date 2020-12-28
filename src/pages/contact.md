@@ -27,7 +27,7 @@ sections:
         default_value: Please select
         options:
           - Design
-          - App Development
+          - Development
           - Other
       - input_type: textarea
         name: message
