@@ -90,7 +90,7 @@ Get emergency help fast and accurately|`'I need the police'`            |Emergen
 ![Flow2 - Breathing? No](/images/NOT-BREATHING.png)
 ![Flow3 - Mistake](/images/Mistake-.png)
 
->I wanted to ensure that the Rescue Vox chatbot accounts for various paths that the user maight encounter.
+>I wanted to ensure that the Rescue Vox chatbot accounts for various paths that the user might encounter.
 
 
 #### Prototype
