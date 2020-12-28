@@ -11,5 +11,4 @@ template: project
 
 ## Case Study
 [Link to password secured Case Study](https://crypto.figmaticapp.com/share/kj8ih2iy74849/YYxjKrqk3LXpPtOvInP6)
-*
-Password available upon request*
+*Password available upon request*
