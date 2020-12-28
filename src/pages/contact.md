@@ -26,7 +26,7 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - UX Design
+          - Design
           - App Development
           - Other
       - input_type: textarea
