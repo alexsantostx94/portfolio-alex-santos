@@ -57,6 +57,13 @@ Get emergency help fast and accurately|`'I need the police'`            |Emergen
 |Get help about what to do in an emergency           |`'I need the fire department'`             |Crime            |
 |          |`'I don't know what to do'` |Fire/Rescue|
 
+##### Core User Needs
+|Efficiency                |Reassurance                          |Competency                         |
+|----------------|-------------------------------|-----------------------------|
+|Being able to know that the 911 system will dispatch emergency response units to the scene of an emergency with accuracy and speed. | Reassurance that help will arrive to the scene and that the caller will be at ease when activating the 911 system. | Taking comfort in knowing that this emergency chatbot is well versed in emergency protocols and can provide guidance to the user when they need it the most.
+
+
+
 
 ## Design & Prototype
 
