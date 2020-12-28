@@ -49,7 +49,7 @@ Denmark has proven that investing in a chatbot system can make for a more effici
 ## Research & Discovery
 #### Discovery
 ![Mind Map](/images/Mind Map.png)
-
+##### List of All
 |Intents                |Utterances                          |Entities                         |
 |----------------|-------------------------------|-----------------------------|
 |Activate 911 chatbot | `'I need an ambulance'`  | Trauma Call
