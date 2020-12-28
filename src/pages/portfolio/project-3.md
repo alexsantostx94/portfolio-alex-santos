@@ -9,5 +9,5 @@ template: project
 ###### Team: Sr. UX Designer, Visual Designer, Copywriter, UI Designer
 ###### My role: UI Designer
 
-## Introduction
+## Presentation
 This project requires a password
