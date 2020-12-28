@@ -47,6 +47,7 @@ Denmark has proven that investing in a chatbot system can make for a more effici
 ![Image of Text: Design a chatbot that leverages the power of AI to quicken the response times of emergency services and ultimately save lives and money.](/images/ProjectObjective.png)
 
 ## Research & Discovery
+#### Discovery
 ![Mind Map](/images/Mind Map.png)
 
 |Intents                |Utterances                          |Entities                         |
