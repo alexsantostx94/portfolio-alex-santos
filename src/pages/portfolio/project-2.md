@@ -1,6 +1,6 @@
 ---
 title: Case Study | Smith TV
-subtitle: UX design for streaming service app
+subtitle: UX and Visual design for streaming service app
 date: '2019-04-30'
 thumb_image: images/stv-thumb.png
 image: images/stv-full.png
