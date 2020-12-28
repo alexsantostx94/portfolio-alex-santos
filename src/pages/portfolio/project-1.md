@@ -6,15 +6,16 @@ thumb_image: images/rvox-thumb.png
 image: images/rvox-full.png
 template: project
 ---
-###### Team: Just me
-###### My Role: CUI Design, UX Writing, Product Design
+###### **Team:** Just me
+###### **My Role:** CUI Design, UX Writing, Product Design
 
-## Introduction
-Smith Optics has over 50 years of innovation and authenticity in optical wear. Smith produces and sells eyewear from ski goggles to sunglasses. They also make helmets that exceed current safety standards. Smith sponsors athletes in snow sports, fishing, surfing and cycling.
+## The Story
+Requesting Emergency Services in a time of crisis should be a swift experience that leaves no opportunity for delay, as every second truly does count. I wanted to design a Conversational User Interface that effectively communicates to users on how to activate the 911 emergency response system. This concept design utilizes an AI chatbot to understand why the user is requesting emergency services and sends the appropriate emergency response resources to the scene of the emergency.
 
-## Challenge
+## Problems & Opportunites
+#### Key Problem
 
-Smith has decided to create a streaming video service to share their content with the world. They have asked for visual designs for a remote-control-based TV app, and a mobile app.
+Activating the current 911 system in the United States is an **antiquated** process that requires a caller to dial 3 numbers and press call. That requires the user to conduct 4 taps and wait for a 911 operator to pick up the phone. The caller is then asked “Do you need Police, Fire or EMS?” requiring the user to **think** on the spot of what resources they need. The operator then transfers the line to the caller’s selected need and the user has to wait until their call is picked up and every **second** that the user is waiting could be optimized to have emergency crews dispatched to the scene faster.
 
 ## Research
 According to [The Nielsen Total Audience Report](https://www.nielsen.com/us/en/insights/article/2020/the-nielsen-total-audience-report-hub/), in the second quarter of 2020 streaming video consumption grew, accounting for 25% of total television viewing minutes, up from 19% in the fourth quarter of 2019.  Currently in the TV streaming app market, there are very few brands similar to Smith that have launched streaming services. The most notable brand with a similar style that has launched a streaming service is Red Bull. Red Bull’s TV platform is geared more towards adventure. With sports television apps making up [24%](https://www.nielsen.com/us/en/insights/article/2020/the-nielsen-total-audience-report-hub/) of views, there is a viable market for an Outdoor Sports app that appeals to the user's itching to get back outside while we are still in the midst of a global pandemic.
