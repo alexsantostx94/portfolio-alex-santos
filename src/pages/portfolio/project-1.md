@@ -50,7 +50,7 @@ Denmark has proven that investing in a chatbot system can make for a more effici
 
 ## Research & Discovery
 #### Discovery
-![Mind Map](/images/Mind Map.png)
+![Mind Map](/images/mind-map.png)
 #### List of All
 |Intents                |Utterances                          |Entities                         |
 |----------------|-------------------------------|-----------------------------|
@@ -76,7 +76,7 @@ Get emergency help fast and accurately|`'I need the police'`            |Emergen
 |Being able to know that the 911 system will dispatch emergency response units to the scene of an emergency with accuracy and speed. |Reassurance that help will arrive to the scene and that the caller will be at ease when activating the 911 system. |Taking comfort in knowing that this emergency chatbot is well versed in emergency protocols and can provide guidance to the user when they need it the most.
 
 #### Key Decision
-
+![Mind Map](/images/mind-map.png)
 
 ## Design & Prototype
 ![User Testing: Tester #1 - This user suggested improving the urgency of the conversational tone. This user stated that interacting with the prototype was too slow. They also mentioned that it would be helpful to provide an intro to explain “what’s next” when the bot describes what steps to take after the user has clicked “no” to the question, “Are they breathing?”. Tester#2 - This user tested the chat bot design and said “my overall experience was that it was super easy, quick and intuitive. I liked that each question only had yes or no options — nothing more to think about.”. This user suggested providing feedback on when the ambulance and rescue team will arrive. They stated “I think that would be a feature people would greatly appreciate and help them stay calmer.” Tester #3 - This tester stated that it would be nice to activate the 911 Rescue Vox by speaking to it similar to an Amazon Alexa device or a Google Home device. They mentioned that this would help people that are visually impaired operate 911 even faster in the event of an emergency.](/images/user-testing.png)
