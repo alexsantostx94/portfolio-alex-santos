@@ -19,7 +19,7 @@ Activating the current 911 system in the United States is an **antiquated** proc
 
 ### Competitive Landscape
 #### America's 911 System
-*“Pandemic pushing America’s 911 system to breaking point”*
+*Pandemic pushing America’s 911 system to breaking point*
 ###### “The strain could result in longer wait times and some providers going out of business, ambulance operators said. Ambulance providers are struggling to meet surging demand even while grappling with increased costs of personal protective equipment, overtime, staff shortages as workers fall ill and decreases in the type of emergency calls that are reimbursed.” 
 [-New York Times Article](https://www.seattletimes.com/nation-world/nation/pandemic-pushing-americas-911-system-to-breaking-point-ambulance-operators-say/)
 
