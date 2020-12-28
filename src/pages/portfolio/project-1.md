@@ -49,7 +49,12 @@ Denmark has proven that investing in a chatbot system can make for a more effici
 ## Research & Discovery
 ![Mind Map](/images/Mind Map.png)
 
-
+|Intents                |Utterances                          |Entities                         |
+|----------------|-------------------------------|-----------------------------|
+|activate 911 chatbot 
+get emergency help fast and accurately|`'Isn't this fun?'`            |'Isn't this fun?'            |
+|get help about what to do in an emergency           |`"Isn't this fun?"`            |"Isn't this fun?"            |
+|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
 
 ## Design & Prototype
 
