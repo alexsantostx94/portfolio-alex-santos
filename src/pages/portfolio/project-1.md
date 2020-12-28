@@ -35,6 +35,7 @@ Denmark has proven that investing in a chatbot system can make for a more effici
 
 
 #### How Might We...
+![Empathy Map & User Persona](/images/green-zebra.png)
 ##### Design a solution that **improves** the current system of dialing 911 and speaking to an operator.
 
 #### Product Goals
