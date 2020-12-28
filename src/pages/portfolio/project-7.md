@@ -2,7 +2,7 @@
 title: Healthcare App
 subtitle: Prototype
 date: '2018-01-15'
-thumb_image: images/user-testing.png
+thumb_image: images/Desktop-11.png
 image: images/project-objective.png
 template: project
 excerpt: ''
