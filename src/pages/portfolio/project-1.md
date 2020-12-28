@@ -47,6 +47,7 @@ Denmark has proven that investing in a chatbot system can make for a more effici
 ![Image of Text: Design a chatbot that leverages the power of AI to quicken the response times of emergency services and ultimately save lives and money.](/images/ProjectObjective.png)
 
 ## Research & Discovery
+![Mind Map](/images/Mind Map.png)
 According to [The Nielsen Total Audience Report](https://www.nielsen.com/us/en/insights/article/2020/the-nielsen-total-audience-report-hub/), in the second quarter of 2020 streaming video consumption grew, accounting for 25% of total television viewing minutes, up from 19% in the fourth quarter of 2019.  Currently in the TV streaming app market, there are very few brands similar to Smith that have launched streaming services. The most notable brand with a similar style that has launched a streaming service is Red Bull. Red Bull’s TV platform is geared more towards adventure. With sports television apps making up [24%](https://www.nielsen.com/us/en/insights/article/2020/the-nielsen-total-audience-report-hub/) of views, there is a viable market for an Outdoor Sports app that appeals to the user's itching to get back outside while we are still in the midst of a global pandemic.
 
 
