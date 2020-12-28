@@ -7,5 +7,3 @@ image: images/uyCansMockup-small.png
 template: project
 excerpt: kdkd
 ---
-###### Team: Creative Director, Sr. Digital Designer, Copywriter, UX Designer
-###### My role: UX Designer (Researcher, Information Architecture, Design)
