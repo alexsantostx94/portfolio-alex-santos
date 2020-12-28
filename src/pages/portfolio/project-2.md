@@ -1,5 +1,5 @@
 ---
-title: Mobile Charting Healthcare App
+title: Case Study |
 subtitle: UX Design and Prototype
 date: '2019-04-30'
 thumb_image: images/fabulous-hickory.png
