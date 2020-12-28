@@ -61,7 +61,9 @@ Get emergency help fast and accurately|`'I need the police'`            |Emergen
 
 
 #### Conversational Flows
-![task flow](/images/cool-sunflower.png)
+![Flow1](/images/YES BREATHING.png)
+![Flow2](/images/NO BREATHING.png)
+![Flow3](/images/Mistake.png)
 
 >I wanted the user's flow to be very simple and limit the choices given when they first open the app. A study from [Netflix](https://dl.acm.org/doi/pdf/10.1145/2843948) showed that a 80% of views come from their recommended algorithm. I wanted to apply that same concept for this app and greet the user with a simple choice based on how they are feeling, Thrill or Chill, and give them the option to scroll down for a Recommended list. 
 
