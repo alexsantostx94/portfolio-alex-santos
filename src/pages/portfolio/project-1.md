@@ -85,13 +85,13 @@ Get emergency help fast and accurately|`'I need the police'`            |Emergen
 #### Conversational Flows
 ![Flow1](/images/YES-BREATHING.png)
 ![Flow2](/images/NOT-BREATHING.png)
-![Flow3](/images/Mistake-.png)(/images/Mistake-.png)
+![Flow3](/images/Mistake-.png)
 
->I wanted to ensure that Rescue Vox accounts for 
+>I wanted to ensure that the Rescue Vox chatbot accounts for various paths that the user maight encounter.
 
 
 #### Prototype
-
+![Flow3](/images/Mistake-.png)
 
 ## Take Away
 I really enjoyed designing this CUI chatbot experience! Designing for emerging technologies is without a doubt challenging, but I am glad I could apply my knowledge of user interface design, interaction design and ux writing to this product.
