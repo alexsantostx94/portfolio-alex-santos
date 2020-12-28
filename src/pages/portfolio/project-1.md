@@ -94,7 +94,7 @@ Get emergency help fast and accurately|`'I need the police'`            |Emergen
 
 
 #### Prototype
-![Flow3](/images/Mistake-.png)
+[Bot Society](https://app.botsociety.io/2.0/designs/5fd056d41094cb4bbd86535d?m=interactive)
 
 ## Take Away
 I really enjoyed designing this CUI chatbot experience! Designing for emerging technologies is without a doubt challenging, but I am glad I could apply my knowledge of user interface design, interaction design and ux writing to this product.
