@@ -10,4 +10,4 @@ template: project
 
 ###### My role: UX Designer (Research, Information Architecture, Design)
 
-[Case Study](https://crypto.figmaticapp.com/share/kju89auk59525/lYBSQG4fie4LojpapePb)[**](https://crypto.figmaticapp.com/share/kju89auk59525/lYBSQG4fie4LojpapePb)
+## [Case Study](https://crypto.figmaticapp.com/share/kju89auk59525/lYBSQG4fie4LojpapePb)[](https://crypto.figmaticapp.com/share/kju89auk59525/lYBSQG4fie4LojpapePb)
