@@ -7,9 +7,7 @@ image: images/spectacular-yam.png
 template: project
 ---
 ###### Team: Sr. Digital Designer, Creative Director, Copywriter, UX Designer
+
 ###### My role: UX Designer (Research, Information Architecture, Design)
 
-## Case Study
-[Link to password secured Case Study](https://crypto.figmaticapp.com/share/kj8ih2iy74849/YYxjKrqk3LXpPtOvInP6)
- 
-*Password available upon request*
+[Case Study](https://crypto.figmaticapp.com/share/kju89auk59525/lYBSQG4fie4LojpapePb)[**](https://crypto.figmaticapp.com/share/kju89auk59525/lYBSQG4fie4LojpapePb)
