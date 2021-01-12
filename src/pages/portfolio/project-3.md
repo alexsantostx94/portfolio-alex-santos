@@ -7,9 +7,13 @@ image: images/full-af1.png
 template: project
 ---
 ###### Team: Sr. UX Designer, Visual Designer, Copywriter, mobile UI Designer
+
 ###### My role: mobile UI Designer
 
 ## Case Study
+
 [Link to password secured Case Study](https://crypto.figmaticapp.com/share/kj8ih2iy74849/YYxjKrqk3LXpPtOvInP6)
- 
+
 *Password available upon request*
+
+[**](https://crypto.figmaticapp.com/share/kjtw26d989651/w77R9I8yom7rEdiBPLH7)
