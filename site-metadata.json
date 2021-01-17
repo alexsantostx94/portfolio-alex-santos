@@ -38,13 +38,6 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "Instagram",
-                "url": "https://www.instagram.com/ux.byalex",
-                "style": "icon",
-                "icon_class": "fa-instagram",
-                "new_window": true
-            },
-            {
                 "label": "Dribbble",
                 "url": "https://dribbble.com/designsbyalex",
                 "style": "icon",
