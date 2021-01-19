@@ -29,7 +29,7 @@ sections:
           - Design
           - Development
           - Other
-          - lorem-ipsum
+          - Other
       - input_type: textarea
         name: message
         label: Message
