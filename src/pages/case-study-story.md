@@ -15,11 +15,7 @@ The United States Air Force has expressed plans to increase diversity of future 
 
 ##
 
-##
-
 [](<\<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share\&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FEvskoVzwT7TYME3rsrFHru%2FAir-Force-Case-Study%3Fnode-id%3D108%253A16%26viewport%3D1336%252C520%252C0.05775180459022522%26scaling%3Dcontain" allowfullscreen\>\</iframe\>>)
-
-
 
 Conceptualize and design a microinteraction prototype that improves the digital experience for a hopeful Air Force recruit. Ensure that this design remains accessible.
 
