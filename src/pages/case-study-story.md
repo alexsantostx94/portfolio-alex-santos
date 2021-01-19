@@ -11,7 +11,7 @@ image: images/Screen Shot 2020-10-28 at 11.28.13 AM.png
 
 The United States Air Force has expressed plans to increase diversity of future recruits and specifically for Pilot positions. They have asked for concepts on to improve the search feature design of the Air Force website.
 
-## Challenge
+## [Challenge](<!\[Alt Text]\(https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)&#xA;&#xA;>)
 
 ##
 
