@@ -28,7 +28,7 @@ sections:
         options:
           - Design
           - Development
-          - ''
+          - Password for Case Study
           - Other
       - input_type: textarea
         name: message
