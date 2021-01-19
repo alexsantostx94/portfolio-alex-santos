@@ -28,7 +28,7 @@ sections:
         options:
           - Design
           - Development
-          - Other
+          - 'Password '
           - Other
       - input_type: textarea
         name: message
