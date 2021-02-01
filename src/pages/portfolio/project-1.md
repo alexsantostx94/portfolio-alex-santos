@@ -44,7 +44,7 @@ Activating the current 911 system in the United States is an **antiquated** proc
 
 #### HMW
 
-![How Might We... Design a solution that improves the current system of dialing 911 and speaking to an operator.](/images/HMW.png)
+![](images/008.png)
 
 
 
@@ -54,7 +54,7 @@ When presented with the challenge of improving the 911 system by utilizing Artif
 
 #### Solution
 
-![Project Objective: Design a chatbot (CUI Design) that leverages the power of AI to quicken the response times of emergency services and ultimately save lives and money.](/images/project-objective.png)
+![](images/010.png)
 
 #### Product Goals
 
@@ -100,9 +100,11 @@ Get emergency help fast and accurately|`'I need the police'`            |Emergen
 |----------------|-------------------------------|-----------------------------|
 |Being able to know that the 911 system will dispatch emergency response units to the scene of an emergency with accuracy and speed. |Reassurance that help will arrive to the scene and that the caller will be at ease when activating the 911 system. |Taking comfort in knowing that this emergency chatbot is well versed in emergency protocols and can provide guidance to the user when they need it the most.
 
-![VUI or Chatbot? When presented with the challenge of improving the 911 system by utilizing Artificial Intelligence, I found that ultimately both a VUI AND Chatbot would be necessary to meet the objectives of this project. I focused my scope on the Chatbot feature for this design as I felt it would be much easier to visually show how this product would work from a user interface.](/images/decisions-made.png)
+#### Revisions
 
-## Design & Prototype
+![](images/021.png)
+
+
 
 #### Conversational Flows
 
