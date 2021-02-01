@@ -46,6 +46,10 @@ Activating the current 911 system in the United States is an **antiquated** proc
 
 ![How Might We... Design a solution that improves the current system of dialing 911 and speaking to an operator.](/images/HMW.png)
 
+#### Solution
+
+![Project Objective: Design a chatbot (CUI Design) that leverages the power of AI to quicken the response times of emergency services and ultimately save lives and money.](/images/project-objective.png)
+
 #### Product Goals
 
 **1. Improve emergency response times**
@@ -54,11 +58,9 @@ Activating the current 911 system in the United States is an **antiquated** proc
 
 **3. Decrease cognitive load of the caller**
 
-#### Opportunites
+****
 
-![Project Objective: Design a chatbot (CUI Design) that leverages the power of AI to quicken the response times of emergency services and ultimately save lives and money.](/images/project-objective.png)
-
-## Discovery, Design & Testing
+### Discovery, Design & Testing
 
 #### Discovery
 
