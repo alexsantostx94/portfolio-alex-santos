@@ -5,7 +5,7 @@ excerpt: lorem-ipsum
 date: '2020-10-28'
 template: project
 thumb_image: images/Screen Shot 2020-10-28 at 11.28.13 AM.png
-image: images/021.png
+image: images/008.png
 ---
 # Introduction
 
