@@ -46,8 +46,6 @@ Activating the current 911 system in the United States is an **antiquated** proc
 
 ![](images/008.png)
 
-
-
 #### VUI or **Chatbot?**
 
 When presented with the challenge of improving the 911 system by utilizing Artificial Intelligence, I found that ultimately both a VUI AND Chatbot would be necessary to meet the objectives of this project. I focused my scope on the Chatbot feature for this design as I felt it would be much easier to visually show how this product would work from a user interface.
@@ -81,6 +79,10 @@ Get emergency help fast and accurately|`'I need the police'`            |Emergen
 |Get help about what to do in an emergency           |`'I need the fire department'`             |Crime            |
 |          |`'I don't know what to do'` |Fire/Rescue|
 
+#### Initial Conversational Flows
+
+![](images/015.png)
+
 #### Findings
 
 ![User Testing: Tester #1 - This user suggested improving the urgency of the conversational tone. This user stated that interacting with the prototype was too slow. They also mentioned that it would be helpful to provide an intro to explain “what’s next” when the bot describes what steps to take after the user has clicked “no” to the question, “Are they breathing?”. Tester#2 - This user tested the chat bot design and said “my overall experience was that it was super easy, quick and intuitive. I liked that each question only had yes or no options — nothing more to think about.”. This user suggested providing feedback on when the ambulance and rescue team will arrive. They stated “I think that would be a feature people would greatly appreciate and help them stay calmer.” Tester #3 - This tester stated that it would be nice to activate the 911 Rescue Vox by speaking to it similar to an Amazon Alexa device or a Google Home device. They mentioned that this would help people that are visually impaired operate 911 even faster in the event of an emergency.](/images/user-testing.png)
@@ -103,8 +105,6 @@ Get emergency help fast and accurately|`'I need the police'`            |Emergen
 #### Revisions
 
 ![](images/021.png)
-
-
 
 #### Conversational Flows
 
