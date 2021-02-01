@@ -12,8 +12,6 @@ template: project
 
 ###### **Project Objective:** Design a conversational user interface or voice user interface for an existing product.
 
-
-
 ## The Story
 
 Requesting Emergency Services in a time of crisis should be a swift experience that leaves no opportunity for delay, as every second truly does count. I wanted to design a Conversational User Interface that effectively communicates to users how to activate the 911 emergency response system. This concept design utilizes an AI chatbot to understand why the user is requesting emergency services and sends the appropriate emergency response resources to the scene of the emergency.
