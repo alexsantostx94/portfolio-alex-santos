@@ -18,7 +18,7 @@ Requesting Emergency Services in a time of crisis should be a swift experience t
 
 ### Key Problem
 
-Activating the current 911 system in the United States is an **antiquated** process that requires a caller to dial 3 numbers and press call. That requires the user to conduct 4 taps and wait for a 911 operator to pick up the phone. The caller is then asked “Do you need Police, Fire or EMS?” requiring the user to **think** on the spot of what resources they need. The operator then transfers the line to the caller’s selected need and the user has to wait until their call is picked up and every **second** that the user is waiting could be optimized to have emergency crews dispatched to the scene faster.
+Activating the current 911 system in the United States is an **antiquated** process that requires a caller to dial 3 numbers and press call. The caller is then asked “Do you need Police, Fire or EMS?” requiring the user to **think** on the spot of what resources they need. The operator then transfers the line to the caller’s selected need and the user has to wait until their call is picked up and every **second** that the user is waiting could be optimized to have emergency crews dispatched to the scene faster.
 
 ### Competitive Landscape
 
