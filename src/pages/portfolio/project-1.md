@@ -46,7 +46,9 @@ Activating the current 911 system in the United States is an **antiquated** proc
 
 ![](images/008.png)
 
-#### VUI or **Chatbot?**
+#### !\[]\(images/010.png)
+
+VUI or **Chatbot?**
 
 When presented with the challenge of improving the 911 system by utilizing Artificial Intelligence, I found that ultimately both a VUI AND Chatbot would be necessary to meet the objectives of this project. I focused my scope on the Chatbot feature for this design as I felt it would be much easier to visually show how this product would work from a user interface.
 
@@ -106,7 +108,7 @@ Get emergency help fast and accurately|`'I need the police'`            |Emergen
 
 ![](images/021.png)
 
-####  Conversational Flows
+#### Conversational Flows
 
 ![Flow1 - Breathing? Yes](/images/YES-BREATHING.png)
 ![Flow2 - Breathing? No](/images/NOT-BREATHING.png)
