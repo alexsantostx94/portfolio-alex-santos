@@ -1,6 +1,6 @@
 ---
 title: Rescue Vox | Case Study
-subtitle: "Conversational User Interface,\_Product Design"
+subtitle: "Conversational User Interface,\_UX Writing"
 date: '2019-05-10'
 thumb_image: images/knowledgeable-plankton.png
 image: images/green-avocado.png
