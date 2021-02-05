@@ -46,7 +46,7 @@ Activating the current 911 system in the United States is an **antiquated** proc
 
 #### How might we...
 
-Decrease the **cognitive load **of the user when activating the 911 emergency response system.
+Decrease the \*\*cognitive load \*\*of the user when activating the 911 emergency response system.
 
 #### VUI or **Chatbot?**
 
