@@ -44,9 +44,9 @@ Activating the current 911 system in the United States is an **antiquated** proc
 
 > Denmark has proven that investing in a chatbot system can make for a more efficient Emergency response system.
 
-#### HMW
+#### How might we...
 
-![](images/008.png)
+Decrease the **cognitive load **of the user when activating the 911 emergency response system.
 
 #### VUI or **Chatbot?**
 
