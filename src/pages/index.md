@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: Experience Designer
+    title: Product Designer
     content: >-
       Cross-discipline designer with a keen focus on understanding the humans I
       am designing for and how the designs I make can improve their lived in
