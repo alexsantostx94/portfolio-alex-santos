@@ -56,6 +56,8 @@ When presented with the challenge of improving the 911 system by utilizing Artif
 
 ![](images/010.png)
 
+
+
 #### Product Goals
 
 **1. Improve emergency response times**
