@@ -116,7 +116,7 @@ Get emergency help fast and accurately|`'I need the police'`            |Emergen
 
 > I wanted to ensure that the Rescue Vox chatbot accounts for various paths that the user might encounter.
 
-#### Prototype
+## Prototype
 
 ### [**Bot Society**](https://app.botsociety.io/2.0/designs/5fd056d41094cb4bbd86535d?m=interactive)
 
