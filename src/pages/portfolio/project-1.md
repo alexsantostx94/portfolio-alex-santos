@@ -6,11 +6,11 @@ thumb_image: images/knowledgeable-plankton.png
 image: images/green-avocado.png
 template: project
 ---
-###### **Team:** Just me
+###### ***Team:*** Just me
 
-###### **My Role:** CUI Design, UX Writing, Product Design
+###### ***My Role:*** CUI Design, UX Writing, Product Design
 
-###### **Project Objective:** Design a conversational user interface or voice user interface for an existing product.
+###### ***Project Objective:*** Design a conversational user interface or voice user interface for an existing product.
 
 ## The Story
 
