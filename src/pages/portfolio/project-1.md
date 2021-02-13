@@ -56,9 +56,7 @@ When presented with the challenge of improving the 911 system by utilizing Artif
 
 ![](https://preview--pleasant-hickory-787ed.stackbit.dev//images/010.png)
 
-![](//images/010.png)
 
-![](images/010.png)
 
 #### Product Goals
 
@@ -87,7 +85,9 @@ Get emergency help fast and accurately|`'I need the police'`            |Emergen
 
 #### Initial Conversational Flows
 
-![](images/015.png)
+![](https://preview--pleasant-hickory-787ed.stackbit.dev//images/015.png)
+
+
 
 #### Findings
 
@@ -110,7 +110,9 @@ Get emergency help fast and accurately|`'I need the police'`            |Emergen
 
 #### Revisions
 
-![](images/021.png)
+![](https://preview--pleasant-hickory-787ed.stackbit.dev/images/021.png)
+
+
 
 #### Conversational Flows
 
