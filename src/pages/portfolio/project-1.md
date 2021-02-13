@@ -54,6 +54,8 @@ When presented with the challenge of improving the 911 system by utilizing Artif
 
 #### Solution
 
+![](https://preview--pleasant-hickory-787ed.stackbit.dev//images/010.png)
+
 ![](//images/010.png)
 
 ![](images/010.png)
