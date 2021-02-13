@@ -118,7 +118,7 @@ Get emergency help fast and accurately|`'I need the police'`            |Emergen
 
 #### Prototype
 
-### ****[**Bot Society**](https://app.botsociety.io/2.0/designs/5fd056d41094cb4bbd86535d?m=interactive)
+### [**Bot Society**](https://app.botsociety.io/2.0/designs/5fd056d41094cb4bbd86535d?m=interactive)
 
 ## Take Away
 
