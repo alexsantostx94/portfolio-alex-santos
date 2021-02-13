@@ -54,9 +54,9 @@ When presented with the challenge of improving the 911 system by utilizing Artif
 
 #### Solution
 
+![](//images/010.png)
+
 ![](images/010.png)
-
-
 
 #### Product Goals
 
