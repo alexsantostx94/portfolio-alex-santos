@@ -56,8 +56,6 @@ When presented with the challenge of improving the 911 system by utilizing Artif
 
 ![](https://preview--pleasant-hickory-787ed.stackbit.dev//images/010.png)
 
-
-
 #### Product Goals
 
 **1. Improve emergency response times**
@@ -87,8 +85,6 @@ Get emergency help fast and accurately|`'I need the police'`            |Emergen
 
 ![](https://preview--pleasant-hickory-787ed.stackbit.dev//images/015.png)
 
-
-
 #### Findings
 
 ![User Testing: Tester #1 - This user suggested improving the urgency of the conversational tone. This user stated that interacting with the prototype was too slow. They also mentioned that it would be helpful to provide an intro to explain “what’s next” when the bot describes what steps to take after the user has clicked “no” to the question, “Are they breathing?”. Tester#2 - This user tested the chat bot design and said “my overall experience was that it was super easy, quick and intuitive. I liked that each question only had yes or no options — nothing more to think about.”. This user suggested providing feedback on when the ambulance and rescue team will arrive. They stated “I think that would be a feature people would greatly appreciate and help them stay calmer.” Tester #3 - This tester stated that it would be nice to activate the 911 Rescue Vox by speaking to it similar to an Amazon Alexa device or a Google Home device. They mentioned that this would help people that are visually impaired operate 911 even faster in the event of an emergency.](/images/user-testing.png)
@@ -112,8 +108,6 @@ Get emergency help fast and accurately|`'I need the police'`            |Emergen
 
 ![](https://preview--pleasant-hickory-787ed.stackbit.dev/images/021.png)
 
-
-
 #### Conversational Flows
 
 ![Flow1 - Breathing? Yes](/images/YES-BREATHING.png)
@@ -124,7 +118,11 @@ Get emergency help fast and accurately|`'I need the police'`            |Emergen
 
 #### Prototype
 
-[Bot Society](https://app.botsociety.io/2.0/designs/5fd056d41094cb4bbd86535d?m=interactive)
+[**Bot Society**](https://app.botsociety.io/2.0/designs/5fd056d41094cb4bbd86535d?m=interactive)
+
+![](https://preview--pleasant-hickory-787ed.stackbit.dev/images/rvox-prototype.gif\))
+
+###  
 
 ## Take Away
 
