@@ -41,11 +41,12 @@ sections:
           developed a strong understanding of UI mobile patterns and incorporate
           that knowledge when building intuitive interfaces.
       - title: UX Research
-        content: >-
-          I am a firm believer that design decisons need to be backed by
-          research and not assumption. I conduct thorough User Research by
-          utilizing user interviews, card sorting, affinity mapping, thematic
-          analysis, quantitative analysis and creating user research reports.
+        content: >
+          I am a firm believer that design decisions need to be backed by
+          research and that assumptions must be validated. I conduct thorough
+          User Research by utilizing user interviews, card sorting, affinity
+          mapping, thematic analysis, quantitative analysis and creating user
+          research reports.
       - title: Interaction Design
         content: >-
           My focus is to improve the user's interaction with each design.  My
